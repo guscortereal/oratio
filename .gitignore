@@ -1,0 +1,10 @@
+node_modules/
+.DS_Store
+*.log
+.claude/settings.local.json
+.claude/launch.json
+
+# PRIVACIDADE: o agente pessoal (com dados íntimos) NUNCA vai para o repositório público.
+# Apenas a variante pública em prompts/comes_orationis_public.md é publicada.
+comes_orationis.md
+

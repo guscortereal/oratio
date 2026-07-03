@@ -1,0 +1,45 @@
+name: Centelha diária
+
+on:
+  schedule:
+    # 08:30 UTC = 05:30 em America/Sao_Paulo (UTC-3). Roda todos os dias.
+    - cron: '30 8 * * *'
+  workflow_dispatch: {}  # permite disparar manualmente pelo botão "Run workflow"
+
+permissions:
+  contents: write  # necessário para o commit da reflexão do dia
+
+concurrency:
+  group: centelha-diaria
+  cancel-in-progress: false
+
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+    env:
+      TZ: America/Sao_Paulo
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL || 'claude-sonnet-5' }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Gerar a centelha do dia
+        run: node scripts/generate.mjs
+
+      - name: Commit e push
+        run: |
+          git config user.name  "Oratio Bot"
+          git config user.email "actions@github.com"
+          git add reflections/
+          if git diff --staged --quiet; then
+            echo "Sem mudanças para commitar."
+          else
+            git commit -m "Centelha de $(date +%F)"
+            git push
+          fi

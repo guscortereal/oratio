@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Oratio — Centelha diária sobre o Evangelho</title>
+  <meta name="description" content="Uma centelha diária para a oração mental, sobre o Evangelho do dia, no espírito de São Josemaría Escrivá." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Cormorant+Garamond:wght@500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <h1 class="brand">Oratio</h1>
+      <p class="tagline">Uma centelha diária para a oração mental, sobre o Evangelho do dia</p>
+    </div>
+  </header>
+
+  <main class="wrap" id="app">
+    <article class="reflection" id="reflection" hidden>
+      <figure class="hero" id="hero" hidden>
+        <img id="hero-img" alt="" loading="lazy" />
+        <figcaption id="hero-credit" class="credit"></figcaption>
+      </figure>
+
+      <div class="meta">
+        <span id="liturgia" class="liturgia"></span>
+        <span id="data" class="data"></span>
+      </div>
+
+      <h2 id="titulo" class="titulo"></h2>
+      <p id="referencia" class="referencia"></p>
+
+      <div id="corpo" class="corpo"></div>
+
+      <div class="closings">
+        <p class="silencio"><span class="label">Para o silêncio</span><span id="silencio"></span></p>
+        <p class="proposito"><span class="label">Propósito</span><span id="proposito"></span></p>
+      </div>
+
+      <p id="ancora" class="ancora"></p>
+
+      <details class="gospel">
+        <summary>Ler o Evangelho de hoje</summary>
+        <p id="gospel-ref" class="gospel-ref"></p>
+        <div id="gospel-text" class="gospel-text"></div>
+      </details>
+    </article>
+
+    <p id="loading" class="status">Carregando a centelha de hoje…</p>
+    <p id="error" class="status error" hidden>
+      Não foi possível carregar a reflexão de hoje. Tente novamente mais tarde.
+    </p>
+
+    <nav class="archive" id="archive" hidden>
+      <h3>Dias anteriores</h3>
+      <ul id="archive-list"></ul>
+    </nav>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>
+        Texto gerado diariamente pelo agente <em>Comes Orationis</em> (variante pública),
+        com referência às obras de São Josemaría Escrivá —
+        <a href="https://escriva.org/pt-br/" rel="noopener">escriva.org</a>. Imagens do
+        <a href="https://commons.wikimedia.org" rel="noopener">Wikimedia Commons</a>,
+        com atribuição de autoria e licença.
+      </p>
+      <p class="disclaimer">
+        Este é um auxílio à oração — não substitui a direção espiritual, a confissão nem
+        o texto litúrgico oficial. Liturgia do dia via
+        <a href="https://liturgia.up.railway.app" rel="noopener">API pública de liturgia diária</a>.
+      </p>
+    </div>
+  </footer>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>

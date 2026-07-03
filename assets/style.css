@@ -1,0 +1,205 @@
+:root {
+  --paper: #f6f1e7;
+  --paper-2: #fbf8f1;
+  --ink: #2b2620;
+  --ink-soft: #5c5347;
+  --accent: #6b1f1f;      /* vinho litúrgico */
+  --accent-2: #9a7b3f;    /* ouro velho */
+  --rule: #d9cfbc;
+  --shadow: rgba(43, 38, 32, 0.12);
+  --maxw: 720px;
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background:
+    radial-gradient(1200px 600px at 50% -10%, var(--paper-2), transparent 70%),
+    var(--paper);
+  color: var(--ink);
+  font-family: "EB Garamond", Georgia, "Times New Roman", serif;
+  font-size: 20px;
+  line-height: 1.66;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+.wrap {
+  width: 100%;
+  max-width: var(--maxw);
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+/* Header */
+.site-header {
+  text-align: center;
+  padding: 56px 0 28px;
+  border-bottom: 1px solid var(--rule);
+}
+.brand {
+  font-family: "Cormorant Garamond", "EB Garamond", serif;
+  font-weight: 600;
+  font-size: 3.4rem;
+  letter-spacing: 0.06em;
+  margin: 0;
+  color: var(--accent);
+}
+.tagline {
+  margin: 6px 0 0;
+  font-style: italic;
+  color: var(--ink-soft);
+  font-size: 1.05rem;
+}
+
+/* Reflection */
+main.wrap { padding-top: 40px; padding-bottom: 64px; }
+
+.reflection { animation: fade 0.6s ease both; }
+@keyframes fade { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+
+.hero {
+  margin: 0 0 28px;
+  text-align: center;
+}
+.hero img {
+  width: 100%;
+  height: auto;
+  max-height: 460px;
+  object-fit: cover;
+  border-radius: 4px;
+  box-shadow: 0 8px 30px var(--shadow);
+}
+.credit {
+  margin-top: 8px;
+  font-size: 0.82rem;
+  color: var(--ink-soft);
+  font-style: italic;
+}
+.credit a { color: var(--ink-soft); }
+
+.meta {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 8px;
+  font-size: 0.9rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--accent-2);
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: 10px;
+}
+
+.titulo {
+  font-family: "Cormorant Garamond", serif;
+  font-weight: 600;
+  font-size: 2.2rem;
+  line-height: 1.18;
+  margin: 22px 0 4px;
+  color: var(--ink);
+}
+.referencia {
+  margin: 0 0 24px;
+  font-style: italic;
+  color: var(--accent);
+  font-size: 1.05rem;
+}
+
+.corpo p { margin: 0 0 1.15em; }
+.corpo p:first-child::first-letter {
+  font-family: "Cormorant Garamond", serif;
+  font-size: 3.2rem;
+  line-height: 0.8;
+  float: left;
+  padding: 6px 10px 0 0;
+  color: var(--accent);
+}
+
+.closings {
+  margin: 30px 0 12px;
+  padding: 20px 24px;
+  background: var(--paper-2);
+  border-left: 3px solid var(--accent);
+  border-radius: 3px;
+}
+.closings p { margin: 0; }
+.closings .proposito { margin-top: 12px; }
+.closings .label {
+  display: block;
+  font-size: 0.78rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--accent-2);
+  margin-bottom: 2px;
+}
+
+.ancora {
+  margin: 22px 0 0;
+  font-size: 0.92rem;
+  font-style: italic;
+  color: var(--ink-soft);
+  text-align: right;
+}
+.ancora::before { content: "— "; }
+
+.gospel {
+  margin-top: 34px;
+  border-top: 1px solid var(--rule);
+  padding-top: 16px;
+}
+.gospel summary {
+  cursor: pointer;
+  font-style: italic;
+  color: var(--accent);
+  font-size: 1rem;
+}
+.gospel-ref { font-style: italic; color: var(--ink-soft); margin: 12px 0 6px; }
+.gospel-text { font-size: 0.98rem; color: var(--ink-soft); line-height: 1.6; }
+
+/* Status */
+.status { text-align: center; color: var(--ink-soft); font-style: italic; padding: 40px 0; }
+.status.error { color: var(--accent); }
+
+/* Archive */
+.archive {
+  margin-top: 48px;
+  border-top: 1px solid var(--rule);
+  padding-top: 20px;
+}
+.archive h3 {
+  font-family: "Cormorant Garamond", serif;
+  font-weight: 600;
+  color: var(--accent-2);
+  font-size: 1.3rem;
+  margin: 0 0 12px;
+}
+.archive ul { list-style: none; margin: 0; padding: 0; }
+.archive li { margin: 0 0 6px; }
+.archive a {
+  color: var(--ink);
+  text-decoration: none;
+  border-bottom: 1px solid var(--rule);
+}
+.archive a:hover { color: var(--accent); }
+.archive .a-date { color: var(--accent-2); font-size: 0.86rem; margin-right: 8px; }
+
+/* Footer */
+.site-footer {
+  border-top: 1px solid var(--rule);
+  padding: 28px 0 56px;
+  color: var(--ink-soft);
+  font-size: 0.86rem;
+}
+.site-footer a { color: var(--accent); }
+.disclaimer { font-size: 0.8rem; opacity: 0.85; }
+
+@media (max-width: 560px) {
+  body { font-size: 18px; }
+  .brand { font-size: 2.6rem; }
+  .titulo { font-size: 1.8rem; }
+  .site-header { padding: 40px 0 22px; }
+}

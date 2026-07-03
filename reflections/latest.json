@@ -1,0 +1,38 @@
+{
+  "date": "2026-07-02",
+  "liturgia": "5ª feira da 13ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "evangelho": {
+    "referencia": "Mt 9, 1-8",
+    "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Mateus",
+    "texto": "Naquele tempo, 1entrando em um barco, Jesus atravessou para a outra margem do lago e foi para a sua cidade. 2Apresentaram-lhe, então, um paralítico deitado numa cama. Vendo a fé que eles tinham, Jesus disse ao paralítico: “Coragem, filho, os teus pecados estão perdoados!”3Então alguns mestres da Lei pensaram: “Esse homem está blasfemando!” 4Mas Jesus, conhecendo os pensamentos deles, disse: “Por que tendes esses maus pensamentos em vossos corações? 5O que é mais fácil, dizer: ‘Os teus pecados estão perdoados’, ou dizer: ‘Levanta-te e anda?’ 6Pois bem, para que saibais que o Filho do Homem tem na terra poder para perdoar pecados, "
+  },
+  "primeiraLeitura": {
+    "referencia": "Am 7, 10-17",
+    "texto": "Naqueles dias, 10Amasias, sacerdote de Betel, mandou dizer a Jeroboão, rei de Israel: “Amós conspira contra ti, dentro da própria casa de Israel; o país não consegue evitar que se espalhem todas as suas palavras. 11Ele anda dizendo: ‘Jeroboão morrerá pela espada, e Israel será deportado de sua pátria, como escravo’”. 12Disse depois Amasias a Amós: “Vidente, sai e procura refúgio em Judá, onde possas ganhar teu pão e exercer a profecia; 13mas em Betel não deverás insistir em profetizar, porque aí fica o santuário do rei e a corte do reino”. 14Respondeu Amós a Amasias, dizendo: “Não sou profeta nem sou filho de profeta; sou pastor de gado e cultivo sicômoros. 15O Senhor chamou-me, quando eu tangia o rebanho, e o Senhor me disse: ‘Vai profetizar para Israel, meu povo’”. 16E agora ouve a Palavra do Senhor. “Tu dizes: ‘Não profetizes contra Israel e não insinues palavras contra a casa de Isaac’. 17Pois bem, isto diz o Senhor: ‘Tua mulher se prostituirá na cidade, teus filhos e filhas morrerão pela espada, tuas terras serão tomadas e loteadas; tu mesmo morrerás em terra poluída, e Israel será levado em cativeiro para longe de seu país’”."
+  },
+  "reflexao": {
+    "tituloBreve": "Coragem, filho: levanta-te",
+    "corpo": "Naquele barco, Jesus atravessa o lago e volta \"para a sua cidade\". Mal chega, trazem-lhe um paralítico deitado numa cama — carregado por outros, incapaz de dar um passo por si. E o Senhor, \"vendo a fé que eles tinham\", não faz o que todos esperavam. Antes de tocar as pernas mortas, toca o que ninguém tinha pedido: \"Coragem, filho, os teus pecados estão perdoados\" (Mt 9,2).\n\nRepare na ordem. Vieram por causa do corpo; Ele começa pela alma. Nós também nos aproximamos da oração com uma lista de pernas que queremos ver andar — o problema resolvido, a angústia calada, a circunstância consertada. E Cristo, com uma liberdade que desconcerta, vai primeiro ao lugar que não apontamos: o pecado que nos deixa deitados, essa paralisia interior a que já nos acostumamos a ponto de não senti-la mais.\n\nE há uma palavra antes de qualquer cura: \"filho\". Ele não diz \"infeliz\", não diz \"culpado\" — diz filho, e o diz antes de o homem ter feito nada para merecer. É este o coração que São Josemaría não se cansava de pregar: você é filho de Deus, e essa filiação vem primeiro, sustenta tudo o mais. Enquanto os mestres da Lei murmuram no coração — \"esse homem blasfema\" —, é o pecador que se levanta e caminha.\n\nTalvez a sua paralisia hoje não seja um grande pecado, mas uma acomodação: recomeços adiados, uma luta que você entregou por cansaço. O grave nunca foi cair. O grave é ficar deitado, supondo que já não vale a pena erguer-se. Cristo não pergunta há quanto tempo você está nessa cama. Ele diz, também a você: coragem, filho — levanta-te.",
+    "paraSilencio": "Que \"cama\" eu já aceitei como definitiva, e que Cristo hoje me manda deixar?",
+    "proposito": "Retomar sem adiar aquele único recomeço que venho empurrando — dar hoje o primeiro passo pequeno, ainda cansado.",
+    "ancora": "São Josemaría, sobre a filiação divina e o recomeçar (no espírito de Caminho e de Amigos de Deus)",
+    "imageTheme": "A cura do paralítico em Cafarnaum"
+  },
+  "image": {
+    "query": "Belisario Corenzio healing paralytic Capernaum",
+    "title": "Healing the paralytic at Capernaum by Belisario Corenzio, Complesso Santi Severino e Sossio, Napoli.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Healing_the_paralytic_at_Capernaum_by_Belisario_Corenzio%2C_Complesso_Santi_Severino_e_Sossio%2C_Napoli.jpg/1920px-Healing_the_paralytic_at_Capernaum_by_Belisario_Corenzio%2C_Complesso_Santi_Severino_e_Sossio%2C_Napoli.jpg",
+    "fullSrc": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Healing_the_paralytic_at_Capernaum_by_Belisario_Corenzio%2C_Complesso_Santi_Severino_e_Sossio%2C_Napoli.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Healing_the_paralytic_at_Capernaum_by_Belisario_Corenzio,_Complesso_Santi_Severino_e_Sossio,_Napoli.jpg",
+    "artist": "Mattia Luigi Nappi",
+    "credit": "Own work",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "meta": {
+    "model": "seed-manual",
+    "geradoEm": "2026-07-03T00:07:55.933446+00:00",
+    "caracteres": 1538
+  }
+}

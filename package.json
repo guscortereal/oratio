@@ -1,0 +1,13 @@
+{
+  "name": "oratio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Centelha diária para a oração mental sobre o Evangelho do dia, no espírito de São Josemaría Escrivá.",
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
