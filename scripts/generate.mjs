@@ -82,7 +82,6 @@ async function generateReflection(prompt, liturgy) {
     body: JSON.stringify({
       model: MODEL,
       max_tokens: 2000,
-      temperature: 0.7,
       system: prompt,
       messages: [{ role: 'user', content: userMsg }],
     }),
