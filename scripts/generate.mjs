@@ -164,6 +164,12 @@ function countChars(s) {
   return (s || '').length;
 }
 
+// Modelos às vezes escapam demais e a string já parseada ainda carrega
+// sequências literais \" e \n; converte de volta para os caracteres reais.
+function unescapeStray(s) {
+  return (s || '').split('\\n').join('\n').split('\\"').join('"');
+}
+
 async function main() {
   if (!API_KEY) throw new Error('ANTHROPIC_API_KEY não definida.');
 
@@ -188,11 +194,11 @@ async function main() {
     evangelho: liturgy.evangelho,
     primeiraLeitura: liturgy.primeiraLeitura,
     reflexao: {
-      tituloBreve: r.tituloBreve || '',
-      corpo: r.corpo || '',
-      paraSilencio: r.paraSilencio || '',
-      proposito: r.proposito || '',
-      ancora: r.ancora || '',
+      tituloBreve: unescapeStray(r.tituloBreve),
+      corpo: unescapeStray(r.corpo),
+      paraSilencio: unescapeStray(r.paraSilencio),
+      proposito: unescapeStray(r.proposito),
+      ancora: unescapeStray(r.ancora),
       imageTheme: r.imageTheme || '',
     },
     image,
