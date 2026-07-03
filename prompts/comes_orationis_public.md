@@ -106,7 +106,9 @@
 
 <#OUTPUT>
   Responda EXCLUSIVAMENTE com um objeto JSON válido (nada antes, nada depois, sem
-  cercas de código), com exatamente estes campos:
+  cercas de código), com exatamente estes campos. JSON ESTRITO: dentro das strings,
+  quebras de linha devem ser escritas como \n (BARRA-ENE, nunca quebra de linha
+  literal); aspas internas como \" .
 
   {
     "tituloBreve": "título curto da reflexão (3 a 6 palavras, sem ponto final)",

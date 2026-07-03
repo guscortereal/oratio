@@ -81,7 +81,7 @@ async function generateReflection(prompt, liturgy) {
     },
     body: JSON.stringify({
       model: MODEL,
-      max_tokens: 2000,
+      max_tokens: 4000,
       system: prompt,
       messages: [{ role: 'user', content: userMsg }],
     }),
@@ -92,20 +92,26 @@ async function generateReflection(prompt, liturgy) {
     throw new Error(`Anthropic API ${res.status}: ${body.slice(0, 500)}`);
   }
   const data = await res.json();
+  if (data?.stop_reason === 'max_tokens') {
+    throw new Error('Resposta truncada pelo limite de tokens; aumente max_tokens.');
+  }
   const text = (data?.content || []).filter((b) => b.type === 'text').map((b) => b.text).join('');
   return parseJsonLoose(text);
 }
 
 function parseJsonLoose(text) {
   const trimmed = text.trim().replace(/^```(?:json)?/i, '').replace(/```$/, '').trim();
-  try {
-    return JSON.parse(trimmed);
-  } catch {
-    const start = trimmed.indexOf('{');
-    const end = trimmed.lastIndexOf('}');
-    if (start !== -1 && end !== -1) return JSON.parse(trimmed.slice(start, end + 1));
-    throw new Error('Resposta do modelo não é JSON válido:\n' + text.slice(0, 400));
+  const candidates = [trimmed];
+  const start = trimmed.indexOf('{');
+  const end = trimmed.lastIndexOf('}');
+  if (start !== -1 && end > start) candidates.push(trimmed.slice(start, end + 1));
+  for (const c of candidates) {
+    try { return JSON.parse(c); } catch { /* tenta o próximo */ }
+    // Modelos às vezes emitem quebras de linha literais dentro das strings JSON,
+    // o que o JSON.parse rejeita; troca controles por espaço e tenta de novo.
+    try { return JSON.parse(Array.from(c, (ch) => (ch.charCodeAt(0) < 32 ? " " : ch)).join("")); } catch { /* idem */ }
   }
+  throw new Error('Resposta do modelo não é JSON válido:\n' + text.slice(0, 400));
 }
 
 async function searchCommonsImage(queries) {
