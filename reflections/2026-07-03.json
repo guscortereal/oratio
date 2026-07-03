@@ -12,12 +12,12 @@
     "texto": "Irmãos, 19já não sois mais estrangeiros nem migrantes, mas concidadãos dos santos. Sois da família de Deus. 20Vós fostes integrados no edifício que tem como fundamento os apóstolos e os profetas, e o próprio Jesus Cristo como pedra principal. 21É nele que toda a construção se ajusta e se eleva para formar um templo Santo no Senhor. 22E vós também sois integrados nesta construção, para vos tornardes morada de Deus pelo Espírito."
   },
   "reflexao": {
-    "tituloBreve": "As chagas que se deixam tocar",
-    "corpo": "Oito dias depois. As portas continuam fechadas — o medo não passou em uma semana — mas agora Tomé está lá, dentro, com os outros. E Jesus vem outra vez ao encontro exato da dúvida dele: não faz um milagre genérico, não repreende de longe. Estende as mãos furadas e diz: \"Põe o teu dedo aqui.\"\n\nEis o que corta neste Evangelho: Cristo ressuscitado não esconde as chagas para parecer mais glorioso. Leva-as consigo, abertas, e as oferece à mão que precisa tocar para crer. A fé cristã não é fuga para o abstrato — é reconhecimento do Deus concreto, ferido, presente. Tomé não erra ao pedir sinais; erra ao ter posto uma condição antes de se deixar encontrar. E Jesus, paciente, vai até essa condição.\n\nSão Josemaría recomendava, no momento em que o sacerdote eleva a Hóstia na Consagração, repetir baixinho as palavras de Tomé: \"Senhor meu e Deus meu\" — porque ali, sob a aparência de um pouco de pão, está a mesma carne ressuscitada e ferida que Tomé tocou. É o mesmo gesto: reconhecer o Deus concreto onde os olhos só veem sinais pobres.\n\nA falha que este versículo acusa não é a dúvida de Tomé — é a nossa tentação oposta: uma religiosidade morna, feita de ideias bonitas sobre Deus, que nunca chega a tocar a chaga real — a Eucaristia recebida sem fé, a confissão adiada, o irmão ferido que evitamos por não querer sujar as mãos. Preferimos um Cristo de conceito a um Cristo de carne.\n\nMas o Senhor não se cansa de voltar, mesmo com as portas fechadas do nosso costume. Ele mesmo vem estender a mão. Bem-aventurados os que creem sem ver — mas esse crer nunca é salto no vazio: apoia-se na Palavra dos que viram, e se prolonga, filial, em cada Sacramento onde Ele continua a se deixar tocar.",
-    "paraSilencio": "Onde, hoje, tenho evitado tocar a chaga concreta de Cristo por medo de me comprometer?",
-    "proposito": "Na próxima Missa ou visita ao Santíssimo, repetir devagar, olhando a Hóstia: \"Meu Senhor e meu Deus\", antes de pedir qualquer outra coisa.",
-    "ancora": "São Josemaría, no espírito de Amigos de Deus / É Cristo que Passa, ao comentar a Consagração da Missa: recomendava repetir interiormente \"Senhor meu e Deus meu\" diante da Hóstia elevada, unindo a fé de Tomé à fé eucarística.",
-    "imageTheme": "Cristo ressuscitado mostra as chagas a São Tomé no cenáculo"
+    "tituloBreve": "Tocar a Chaga, Crer sem Ver",
+    "corpo": "As portas continuam fechadas. É a segunda vez que o texto o repete: o medo dos discípulos não desapareceu com a primeira aparição, mas Tomé, desta vez, está no meio deles. E Jesus vem exatamente a ele, com uma delicadeza que não humilha: \"Põe o teu dedo aqui... e não sejas incrédulo, mas fiel\" (Jo 20,27).\n\nO Senhor não repreende a pergunta de Tomé — repreende a condição que ele havia posto antes de crer. Há uma diferença enorme entre duvidar buscando e exigir provas para se entregar. Tomé queria negociar a fé com as próprias mãos; Cristo lhe oferece as chagas, mas pede algo mais: um salto que as mãos sozinhas não dão. É por isso que a resposta de Tomé — \"Meu Senhor e meu Deus!\" (Jo 20,28) — já nasce de outro lugar, não do dedo na ferida, mas do coração vencido.\n\nSão Josemaría, em Amigos de Deus, ao tratar da fé, insiste que ela não é uma emoção que vem e vai conforme o humor do dia, mas conhecimento amoroso que se sustenta mesmo na aridez, porque se apoia na Palavra de Cristo, não nas próprias sensações.\n\nAqui está a ferida comum que este versículo expõe: rezamos, trabalhamos, servimos a família — mas só \"sentimos\" que Deus está perto quando há consolo palpável. Na seca, duvidamos silenciosamente, como quem também exige tocar antes de crer. E, no entanto, a bem-aventurança de Jesus não é para os que viram e tocaram, mas para nós: \"Bem-aventurados os que creram sem terem visto\" (Jo 20,29).\n\nNão há aqui motivo para vergonha, mas para recomeço filial. Deus não pede prova de amor antes de amar; Ele já mostrou as mãos perfuradas. Resta a nós, filhos, dizer a mesma palavra de Tomé, ainda que sem tocar nada — porque a fé de um filho não depende de sentir, mas de confiar em quem é Pai.",
+    "paraSilencio": "Que chaga de Cristo você ainda exige tocar antes de dizer, de coração, 'Meu Senhor e meu Deus'?",
+    "proposito": "Hoje, num momento de aridez ou cansaço no trabalho, fazer um ato explícito de fé em silêncio, sem esperar sentir nada.",
+    "ancora": "São Josemaría, em Amigos de Deus, ao falar da fé como conhecimento amoroso que não depende de sensações, mas de adesão confiante a Cristo",
+    "imageTheme": "Tomé tocando as chagas de Cristo ressuscitado no cenáculo"
   },
   "image": {
     "query": "Doubting Thomas Caravaggio painting",
@@ -32,7 +32,7 @@
   },
   "meta": {
     "model": "claude-sonnet-5",
-    "geradoEm": "2026-07-03T12:16:35.245Z",
-    "caracteres": 1696
+    "geradoEm": "2026-07-03T15:45:31.203Z",
+    "caracteres": 1706
   }
 }
