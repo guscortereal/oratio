@@ -173,6 +173,14 @@ function unescapeStray(s) {
 async function main() {
   if (!API_KEY) throw new Error('ANTHROPIC_API_KEY não definida.');
 
+  // O workflow roda várias vezes por dia (o agendador do GitHub atrasa);
+  // se a centelha de hoje já existe, não há nada a fazer.
+  const today = isoDateSaoPaulo();
+  if (existsSync(join(REFLECTIONS_DIR, `${today}.json`)) && process.env.FORCE_REGEN !== '1') {
+    console.log(`✓ Centelha de ${today} já existe; nada a fazer.`);
+    return;
+  }
+
   const prompt = await readFile(PROMPT_PATH, 'utf8');
   console.log('→ Buscando liturgia do dia…');
   const liturgy = await fetchLiturgy();

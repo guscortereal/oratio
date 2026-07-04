@@ -2,8 +2,15 @@ name: Centelha diária
 
 on:
   schedule:
-    # 08:30 UTC = 05:30 em America/Sao_Paulo (UTC-3). Roda todos os dias.
-    - cron: '30 8 * * *'
+    # O agendador do GitHub atrasa (às vezes horas) em repositórios gratuitos.
+    # Várias tentativas ao longo da madrugada/manhã de Brasília (UTC-3); o script
+    # sai sem fazer nada se a centelha do dia já existe, então só a primeira
+    # tentativa bem-sucedida gera e comita.
+    - cron: '15 7 * * *'   # 04:15 em Brasília
+    - cron: '45 7 * * *'   # 04:45
+    - cron: '20 8 * * *'   # 05:20
+    - cron: '50 9 * * *'   # 06:50
+    - cron: '50 11 * * *'  # 08:50 (última rede de segurança)
   workflow_dispatch: {}  # permite disparar manualmente pelo botão "Run workflow"
 
 permissions:
