@@ -44,6 +44,22 @@ function stripHtml(html) {
   return (html || '').replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
 }
 
+// APIs externas oscilam; uma falha transitória não pode desperdiçar a janela
+// de execução do dia. Tenta de novo com espera crescente antes de desistir.
+async function withRetry(fn, label, attempts = 3, delayMs = 30000) {
+  let lastErr;
+  for (let i = 1; i <= attempts; i++) {
+    try {
+      return await fn();
+    } catch (err) {
+      lastErr = err;
+      console.warn(`  ${label}: tentativa ${i}/${attempts} falhou — ${err.message}`);
+      if (i < attempts) await new Promise((r) => setTimeout(r, delayMs * i));
+    }
+  }
+  throw lastErr;
+}
+
 async function fetchLiturgy() {
   const res = await fetch(LITURGY_URL, { headers: { 'User-Agent': UA } });
   if (!res.ok) throw new Error(`Liturgia API ${res.status}`);
@@ -183,11 +199,11 @@ async function main() {
 
   const prompt = await readFile(PROMPT_PATH, 'utf8');
   console.log('→ Buscando liturgia do dia…');
-  const liturgy = await fetchLiturgy();
+  const liturgy = await withRetry(fetchLiturgy, 'liturgia');
   console.log(`  Evangelho: ${liturgy.evangelho.referencia} — ${liturgy.liturgia}`);
 
   console.log(`→ Gerando centelha com ${MODEL}…`);
-  const r = await generateReflection(prompt, liturgy);
+  const r = await withRetry(() => generateReflection(prompt, liturgy), 'geração');
 
   console.log('→ Buscando imagem no Wikimedia Commons…');
   const image = await searchCommonsImage(r.imageQueries);

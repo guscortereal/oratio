@@ -2,14 +2,24 @@ name: Centelha diária
 
 on:
   schedule:
-    # O agendador do GitHub atrasa (às vezes horas) em repositórios gratuitos.
-    # Várias tentativas ao longo da madrugada/manhã de Brasília (UTC-3); o script
-    # sai sem fazer nada se a centelha do dia já existe, então só a primeira
-    # tentativa bem-sucedida gera e comita.
-    - cron: '15 7 * * *'   # 04:15 em Brasília
-    - cron: '45 7 * * *'   # 04:45
+    # O agendador do GitHub atrasa de 3 a 5 horas em repositórios gratuitos
+    # (medição real deste repo). A liturgia do dia já está disponível à
+    # meia-noite, então as janelas começam na virada do dia em Brasília
+    # (00:05 BRT = 03:05 UTC): mesmo com 5 h de atraso, a centelha entra no ar
+    # de madrugada. O script sai sem fazer nada se a centelha do dia já
+    # existe, então só a primeira execução bem-sucedida gera e comita —
+    # as demais custam segundos e nada mais.
+    - cron: '5 3 * * *'    # 00:05 em Brasília
+    - cron: '50 3 * * *'   # 00:50
+    - cron: '35 4 * * *'   # 01:35
+    - cron: '20 5 * * *'   # 02:20
+    - cron: '5 6 * * *'    # 03:05
+    - cron: '50 6 * * *'   # 03:50
+    - cron: '35 7 * * *'   # 04:35
     - cron: '20 8 * * *'   # 05:20
+    - cron: '5 9 * * *'    # 06:05
     - cron: '50 9 * * *'   # 06:50
+    - cron: '35 10 * * *'  # 07:35
     - cron: '50 11 * * *'  # 08:50 (última rede de segurança)
   workflow_dispatch: {}  # permite disparar manualmente pelo botão "Run workflow"
 
