@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-11",
+  "liturgia": "28º Domingo do Tempo Comum",
+  "cor": "Verde",
+  "evangelho": {
+    "referencia": "Mt 22,1-14",
+    "titulo": "Proclamação do evangelho de Jesus Cristo segundo Mateus",
+    "texto": "[Naquele tempo, 1Jesus voltou a falar em parábolas aos sumos sacerdotes e aos anciãos do povo, dizendo: 2“O reino dos céus é como a história do rei que preparou a festa de casamento do seu filho. 3E mandou os seus empregados para chamar os convidados para a festa, mas estes não quiseram ir. 4O rei mandou outros empregados, dizendo: ‘Dizei aos convidados: já preparei o banquete, os bois e os animais cevados já foram abatidos, e tudo está pronto. Vinde para a festa!’ 5Mas os convidados não deram a menor atenção: um foi para o seu campo, outro para os seus negócios, 6outros agarraram os empregados, bateram neles e os mataram. 7O rei ficou indignado e mandou suas tropas para matar aqueles assassinos e incendiar a cidade deles. 8Em seguida, o rei disse aos empregados: ‘A festa de casamento está pronta, mas os convidados não foram dignos dela. 9Portanto, ide até as encruzilhadas dos caminhos e convidai para a festa todos os que encontrardes’. 10Então os empregados saíram pelos caminhos e reuniram todos os que encontraram, maus e bons. E a sala da festa ficou cheia de convidados”.] 11“Quando o rei entrou para ver os convidados, observou aí um homem que não estava usando traje de festa 12e perguntou-lhe: ‘Amigo, como entraste aqui sem o traje de festa?’ Mas o homem nada respondeu. 13Então o rei disse aos que serviam: ‘Amarrai os pés e as mãos desse homem e jogai-o fora, na escuridão! Aí haverá choro e ranger de dentes’. 14Porque muitos são chamados, e poucos são escolhidos”."
+  },
+  "primeiraLeitura": {
+    "referencia": "Is 25,6-10",
+    "texto": "6O Senhor dos exércitos dará neste monte, para todos os povos, um banquete de ricas iguarias, regado com vinho puro, servido de pratos deliciosos e dos mais finos vinhos. 7Ele removerá, neste monte, a ponta da cadeia que ligava todos os povos, a teia em que tinha envolvido todas as nações. 8O Senhor Deus eliminará para sempre a morte, e enxugará as lágrimas de todas as faces, e acabará com a desonra do seu povo em toda a terra; o Senhor o disse. 9Naquele dia se dirá: “Este é o nosso Deus, esperamos nele, até que nos salvou; este é o Senhor, nele temos confiado: vamos alegrar-nos e exultar por nos ter salvo”. 10E a mão do Senhor repousará sobre este monte."
+  },
+  "reflexao": {
+    "tituloBreve": "O traje que falta",
+    "corpo": "A sala está cheia. O rei mandou reunir pelos caminhos \"maus e bons\", e ninguém ficou de fora por mérito próprio — todos entraram por puro convite. Mas o rei entra para ver os convidados, e repara num homem sem traje de festa. Está lá dentro, sentado à mesa, e no entanto algo nele não corresponde ao banquete. É sobre esse detalhe, versículo 11, que a parábola vira faca.\n\nA ideia é dura precisamente porque desarma a preguiça espiritual de quem pensa que estar presente basta. O homem não foi expulso por ser mau — os maus também foram chamados. Foi advertido porque, chamado, não se deixou revestir. Há uma diferença entre ocupar um lugar na festa de Deus e deixar-se vestir por ela: entre comparecer e converter-se.\n\nEssa é a falha que o texto acusa, e é comum demais para ser ignorada: viver de uma religiosidade de presença — Missa, orações, aparências em ordem — sem que a vida ordinária, o trabalho, as palavras ditas em casa, os pensamentos que se acolhe ou se rejeita, tenham sido de fato vestidos de Cristo. É possível estar dentro da sala e seguir com as roupas de fora.\n\nSão Josemaría, em Caminho, ao insistir na necessidade de uma luta ascética concreta nas coisas pequenas, lembra que não basta a boa vontade de ter sido chamado: é preciso corresponder, dia a dia, deixando que a graça teça o traje por dentro, nos detalhes mínimos do trabalho e do trato com os outros. Não há festa que se herde por inércia.\n\nE, no entanto, o Pai não fecha a porta a quem ainda veste farrapos — fecha ao que se recusa a trocá-los. Por isso a repreensão do rei (\"Amigo, como entraste sem o traje?\") ainda chama de amigo. A filiação divina não se perde por estar maltrapilho; perde-se por se recusar, teimosamente, a ser revestido. Hoje ainda há tempo de pedir o traje que não se pode comprar, só receber.",
+    "paraSilencio": "Que traje estou usando hoje diante do Rei: o que mostro por fora, ou o que deixei que Ele tecesse por dentro?",
+    "proposito": "Antes de dormir, examinar um único momento concreto do dia em que a ação não condisse com a fé professada, e pedir a graça de vesti-lo amanhã de outro modo.",
+    "ancora": "São Josemaría, em Caminho, ao falar da luta ascética nas coisas pequenas e da necessidade de corresponder com obras ao chamado recebido",
+    "imageTheme": "O rei observando o convidado sem traje de festa na sala do banquete"
+  },
+  "image": null,
+  "meta": {
+    "model": "claude-sonnet-5",
+    "geradoEm": "2026-10-11T09:54:31.971Z",
+    "caracteres": 1801
+  }
+}
