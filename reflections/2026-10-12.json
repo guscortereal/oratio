@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-12",
+  "liturgia": "Bem-Aventurada Virgem Maria da Conceição Aparecida, Padroeira do Brasil, Solenidade",
+  "cor": "Branco",
+  "evangelho": {
+    "referencia": "Jo 2, 1-11",
+    "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo João",
+    "texto": "Naquele tempo, 1houve um casamento em Caná da Galileia. A mãe de Jesus estava presente. 2Também Jesus e seus discípulos tinham sido convidados para o casamento. 3Como o vinho veio a faltar, a mãe de Jesus lhe disse: “Eles não têm mais vinho”.4Jesus respondeu-lhe: “Mulher, por que dizes isto a mim? Minha hora ainda não chegou”. 5Sua mãe disse aos que estavam servindo: “Fazei o que ele vos disser”. 6Estavam seis talhas de pedra colocadas aí para a purificação que os judeus costumam fazer. Em cada uma delas cabiam mais ou menos cem litros.7Jesus disse aos que estavam servindo: “Enchei as talhas de água”. Encheram-nas até a boca. 8Jesus disse: “Agora tirai e levai ao mestre-sala”. E eles levaram. 9O mestre-sala experimentou a água, que se tinha transformado em vinho. Ele não sabia de onde vinha, mas os que estavam servindo sabiam, pois eram eles que tinham tirado a água.10O mestre-sala chamou então o noivo e lhe disse: “Todo mundo serve primeiro o vinho melhor e, quando os convidados já estão embriagados, serve o vinho menos bom. Mas tu guardaste o vinho melhor até agora!” 11Este foi o início dos sinais de Jesus. Ele o realizou em Caná da Galileia e manifestou a sua glória, e seus discípulos creram nele."
+  },
+  "primeiraLeitura": {
+    "referencia": "Est 5, 1b-2; 7, 2b-3",
+    "texto": "Ester revestiu-se com vestes de rainha e foi colocar-se no vestíbulo interno do palácio real, frente à residência do rei. O rei estava sentado no trono real, na sala do trono, frente à entrada. 2Ao ver a rainha Ester parada no vestíbulo, olhou para ela com agrado e estendeu-lhe o cetro de ouro que tinha na mão, e Ester aproximou-se para tocar a ponta do cetro. 7, 2bEntão, o rei lhe disse: “O que me pedes, Ester; o que queres que eu faça? Ainda que me pedisses a metade do meu reino, ela te seria concedida”. 3Ester respondeu-lhe: “Se ganhei as tuas boas graças, ó rei, e se for de teu agrado, concede-me a vida — eis o meu pedido! — e a vida do meu povo — eis o meu desejo!”"
+  },
+  "reflexao": {
+    "tituloBreve": "Enchei as talhas de água",
+    "corpo": "A festa está no seu ponto alto e o vinho acaba. Ninguém percebeu, exceto ela. Maria não resolve o problema: aponta para o Filho e diz aos serventes a única frase que importa nesta cena — \"Fazei o que ele vos disser\" (Jo 2,5). E o que Ele diz não parece ter relação alguma com o drama: encher de água seis talhas de pedra destinadas à purificação ritual. Não vinho. Água. Numa festa que precisa de vinho.\n\nAqui está o corte: os serventes obedecem sem entender, e é exatamente na obediência sem explicação que o milagre acontece. Jesus não pede fé em uma doutrina abstrata; pede o gesto concreto, desproporcional ao problema, aparentemente sem sentido — carregar água pesada quando o que falta é vinho. A glória se manifesta (v. 11) não no instante da transformação, mas no instante anterior, invisível: quando encheram as talhas até a boca, sem perguntar por quê.\n\nSão Josemaría, no espírito de Caminho, ao falar da obediência, insiste que o caminho mais curto e mais seguro para a santidade não passa pelas grandes façanhas que entendemos e aplaudimos, mas pelo cumprimento fiel daquilo que o Senhor pede mesmo quando parece inútil ou desproporcional. É a mesma lógica das talhas de água.\n\nA falha que este versículo expõe é sutil: você obedece quando a ordem faz sentido prático imediato, mas hesita, racionaliza ou adia quando o pedido — na reza silenciosa, no trabalho mal compreendido, na paciência com quem não muda — parece água numa festa de vinho. Essa hesitação não é prudência; é desconfiança disfarçada.\n\nMas o Evangelho não termina em exigência: termina em filiação. Maria continua mãe antes de ser modelo. Ela não abandona quem obedece às cegas; conduz. E o Pai, que vê a água carregada com fé, não decepciona quem confia o suficiente para encher a talha até a boca, sem entender ainda o milagre que está prestes a realizar.",
+    "paraSilencio": "O que Ele te pede hoje, sem que você entenda ainda por quê?",
+    "proposito": "Cumprir hoje, até o fim e sem perguntar o motivo, a tarefa pequena que mais te parece sem sentido ou fora de propósito.",
+    "ancora": "São Josemaría, em Caminho, ao tratar da obediência, ensina que o caminho mais curto e seguro para a santidade é cumprir fielmente o que Deus pede, mesmo quando o gesto parece desproporcional ou sem explicação aparente.",
+    "imageTheme": "Núpcias de Caná: Maria pede aos serventes que obedeçam a Jesus, as talhas de água transformadas em vinho"
+  },
+  "image": {
+    "query": "Wedding at Cana painting Veronese",
+    "title": "Suleiman in Veronese The Wedding at Cana 1563.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Suleiman_in_Veronese_The_Wedding_at_Cana_1563.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "fullSrc": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Suleiman_in_Veronese_The_Wedding_at_Cana_1563.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Suleiman_in_Veronese_The_Wedding_at_Cana_1563.jpg",
+    "artist": "Paolo Veronese",
+    "credit": "\"Les guerres d'Italie\" by Jean-Louis Fournel",
+    "license": "Public domain",
+    "licenseUrl": ""
+  },
+  "meta": {
+    "model": "claude-sonnet-5",
+    "geradoEm": "2026-10-12T10:37:55.442Z",
+    "caracteres": 1837
+  }
+}
