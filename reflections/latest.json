@@ -1,28 +1,38 @@
 {
-  "date": "2026-10-13",
-  "liturgia": "3ª feira da 28ª Semana do Tempo Comum",
+  "date": "2026-10-14",
+  "liturgia": "4ª feira da 28ª Semana do Tempo Comum",
   "cor": "Verde",
   "evangelho": {
-    "referencia": "Lc 11,37-41",
+    "referencia": "Lc 11,42-46",
     "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
-    "texto": "Naquele tempo, 37enquanto Jesus falava, um fariseu convidou-o para jantar com ele. Jesus entrou e pôs-se à mesa. 38O fariseu ficou admirado ao ver que Jesus não tivesse lavado as mãos antes da refeição. 39O Senhor disse ao fariseu: “Vós, fariseus, limpais o copo e o prato por fora, mas o vosso interior está cheio de roubos e maldades. 40Insensatos! Aquele que fez o exterior não fez também o interior? 41Antes, dai esmola do que vós possuís, e tudo ficará puro para vós”."
+    "texto": "Naquele tempo, disse o Senhor: 42“Ai de vós, fariseus, porque pagais o dízimo da hortelã, da arruda e de todas as outras ervas, mas deixais de lado a justiça e o amor de Deus. Vós deveríeis praticar isso sem deixar de lado aquilo. 43Ai de vós, fariseus, porque gostais do lugar de honra nas sinagogas e de serdes cumprimentados nas praças públicas. 44Ai de vós, porque sois como túmulos que não se veem, sobre os quais os homens andam sem saber”. 45Um mestre da Lei tomou a palavra e disse: “Mestre, falando assim, insultas-nos também a nós!” 46Jesus respondeu: “Ai de vós também, mestres da Lei, porque colocais sobre os homens cargas insuportáveis e vós mesmos não tocais nessas cargas nem com um só dedo”."
   },
   "primeiraLeitura": {
-    "referencia": "Gl 5,1-6",
-    "texto": "Irmãos, 1é para a liberdade que Cristo nos libertou. Ficai, pois, firmes e não vos deixeis amarrar de novo ao jugo da escravidão. 2Eis que eu, Paulo, vos digo que Cristo não será de nenhum proveito para vós se vos deixardes circuncidar. 3Mais uma vez, atesto a todo homem circuncidado que ele está obrigado a observar toda a Lei. 4Vós que procurais a vossa justificação na Lei rompestes com Cristo, decaístes da graça. 5Quanto a nós, que nos deixamos conduzir pelo Espírito, é da fé que aguardamos a justificação, objeto de nossa esperança. 6Com efeito, em Jesus Cristo, o que vale é a fé agindo pela caridade; observar ou não a circuncisão não tem valor algum."
+    "referencia": "Gl 5,18-25",
+    "texto": "Irmãos, 18se sois conduzidos pelo Espírito, então não estais sob o jugo da Lei. 19São bem conhecidas as obras da carne: fornicação, libertinagem, devassidão, 20idolatria, feitiçaria, inimizades, contendas, ciúmes, iras, intrigas, discórdias, facções, 21invejas, bebedeiras, orgias e coisas semelhantes a essas. Eu vos previno, como, aliás, já o fiz: os que praticam essas coisas não herdarão o Reino de Deus. 22Porém, o fruto do Espírito é: caridade, alegria, paz, longanimidade, benignidade, bondade, lealdade, 23mansidão, continência. Contra essas coisas não existe Lei. 24Os que pertencem a Jesus Cristo crucificaram a carne com suas paixões e seus maus desejos. 25Se vivemos pelo Espírito, procedamos também segundo o Espírito, corretamente."
   },
   "reflexao": {
-    "tituloBreve": "O copo e o coração",
-    "corpo": "Está à mesa na casa de um fariseu. O anfitrião fica admirado: o Mestre não lavou as mãos antes de comer. Para ele, a pureza se media pelo gesto exterior, pelo copo e pelo prato bem lavados. Jesus não deixa o comentário em silêncio: \"Insensatos! Aquele que fez o exterior não fez também o interior?\" (Lc 11,40).\n\nA pergunta corta porque desmonta uma ilusão muito antiga: a de que basta cuidar da fachada. O fariseu não é um hipócrita grosseiro que finge virtude sem tê-la; é, antes, alguém que confundiu o acessório com o essencial e se instalou nessa confusão com toda a tranquilidade. Lavou o copo; esqueceu o coração.\n\nA mesma tentação ronda quem quer viver de fé no meio do trabalho e da família: cuidar da prática religiosa visível — a missa, o gesto, a postura correta — e deixar intocado o que fica por dentro: a crítica que corrói em silêncio, o crédito tomado ao esforço alheio sem reconhecê-lo, o tempo roubado ao dever próprio sob disfarce de cansaço, a dureza disfarçada de prudência diante de quem pede ajuda. O Evangelho de hoje chama isso com palavra dura: \"roubos e maldade\".\n\nSão Josemaría insistia, no espírito de Caminho, que a vida interior não é um verniz sobreposto às obras, mas a raiz de onde elas devem nascer: de nada vale polir o exterior se a alma por dentro segue desordenada, porque Deus — que fez as duas coisas — as quer inteiras, não pela metade.\n\nNão há aqui motivo para desânimo, mas para esperança filial. O Pai que viu o interior sujo do fariseu é o mesmo que, em cada exame de consciência, se debruça sobre o nosso coração não para condenar, mas para purificar. A esmola que Jesus propõe logo depois — sair de si, dar o que se possui — é o remédio concreto: só quem se entrega de verdade deixa de agarrar-se à própria imagem.",
-    "paraSilencio": "Que canto do meu coração permanece fechado e sujo, ainda que por fora tudo pareça em ordem?",
-    "proposito": "Hoje, diante da primeira crítica mental que surgir sobre alguém, transformá-la, antes do fim do dia, em um gesto concreto de bondade para com essa mesma pessoa.",
-    "ancora": "Caminho, no espírito dos pontos sobre a vida interior como raiz das obras (e não verniz exterior) — São Josemaría Escrivá, texto integral em escriva.org/pt-br",
-    "imageTheme": "Jesus à mesa na casa do fariseu, sem lavar as mãos antes de comer"
+    "tituloBreve": "A casca e o caroço",
+    "corpo": "Os fariseus mediam com precisão de boticário a décima parte da hortelã e da arruda — e Jesus não lhes nega esse cuidado: \"deveríeis praticar isso sem deixar de lado aquilo\" (Lc 11,42). O que Ele desnuda é a desproporção: tanto zelo pela casca, tanto descaso pelo caroço. A justiça e o amor de Deus ficaram para depois, ou nunca.\n\nÉ fácil ouvir isso como se fosse de outro tempo. Mas a tentação farisaica tem rosto bem atual: cumprir o plano de vida com pontualidade de relógio suíço, riscar cada item da lista de piedade, e, no mesmo dia, responder com aspereza a quem pede ajuda, fechar os ouvidos ao colega que precisa ser escutado, adiar a reconciliação que hoje seria possível. A prática externa, sem o coração que ama, vira túmulo caiado: por fora, ordem; por dentro, vazio que ninguém vê — às vezes nem nós mesmos.\n\nNo espírito de Caminho, São Josemaría insistia em que as normas de piedade não são um fim, mas um cerco amoroso para que o trato com Deus não esmoreça; cumpridas sem alma, deixam de abrir caminho e viram peso — exatamente o que Jesus recrimina, no versículo seguinte, aos mestres da Lei: cargas que nem com um dedo tocam.\n\nExamine-se: não se trata de abandonar a mortificação pequena, o exame de consciência, a Missa diária, a direção espiritual — \"deveríeis praticar isso\". Trata-se de perguntar se, ao cumpri-las, o coração se dilata em caridade ou apenas se tranquiliza por ter marcado a tarefa. Deus Pai não quer um filho escrupuloso com o relógio e surdo ao irmão; quer um filho que, precisamente porque reza, aprende a amar com as mãos.\n\nQuando a prática falhar — e há de falhar —, o recomeço não é vergonha, é filiação: levanta-se, pede-se perdão, começa-se de novo com a mesma ternura com que um pai recebe quem volta.",
+    "paraSilencio": "Em que prática cumpro a letra e esqueço de amar a pessoa diante de mim?",
+    "proposito": "Hoje, ao terminar um momento de oração ou de prática de piedade, buscar deliberadamente um gesto concreto de caridade com alguém próximo, antes de seguir para a tarefa seguinte.",
+    "ancora": "São Josemaría, no espírito de Caminho, ao falar das normas de piedade como meio e não como fim em si mesmas — sem elas degeneram em peso vazio quando falta o amor que as deveria animar.",
+    "imageTheme": "Jesus repreende os fariseus e os mestres da Lei"
   },
-  "image": null,
+  "image": {
+    "query": "Woe unto you Pharisees artwork",
+    "title": "Brooklyn Museum - Woe unto You, Scribes and Pharisees (Malheur à vous, scribes et pharisiens) - James Tissot.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Brooklyn_Museum_-_Woe_unto_You%2C_Scribes_and_Pharisees_%28Malheur_%C3%A0_vous%2C_scribes_et_pharisiens%29_-_James_Tissot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "fullSrc": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Brooklyn_Museum_-_Woe_unto_You%2C_Scribes_and_Pharisees_%28Malheur_%C3%A0_vous%2C_scribes_et_pharisiens%29_-_James_Tissot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_-_Woe_unto_You,_Scribes_and_Pharisees_(Malheur_%C3%A0_vous,_scribes_et_pharisiens)_-_James_Tissot.jpg",
+    "artist": "James Tissot",
+    "credit": "Online Collection of Brooklyn Museum; Photo: Brooklyn Museum, 2008, 00.159.209_PS2.jpg",
+    "license": "Public domain",
+    "licenseUrl": ""
+  },
   "meta": {
     "model": "claude-sonnet-5",
-    "geradoEm": "2026-10-13T10:26:49.772Z",
-    "caracteres": 1762
+    "geradoEm": "2026-10-14T08:36:18.173Z",
+    "caracteres": 1748
   }
 }

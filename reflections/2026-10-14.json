@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-14",
+  "liturgia": "4ª feira da 28ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "evangelho": {
+    "referencia": "Lc 11,42-46",
+    "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+    "texto": "Naquele tempo, disse o Senhor: 42“Ai de vós, fariseus, porque pagais o dízimo da hortelã, da arruda e de todas as outras ervas, mas deixais de lado a justiça e o amor de Deus. Vós deveríeis praticar isso sem deixar de lado aquilo. 43Ai de vós, fariseus, porque gostais do lugar de honra nas sinagogas e de serdes cumprimentados nas praças públicas. 44Ai de vós, porque sois como túmulos que não se veem, sobre os quais os homens andam sem saber”. 45Um mestre da Lei tomou a palavra e disse: “Mestre, falando assim, insultas-nos também a nós!” 46Jesus respondeu: “Ai de vós também, mestres da Lei, porque colocais sobre os homens cargas insuportáveis e vós mesmos não tocais nessas cargas nem com um só dedo”."
+  },
+  "primeiraLeitura": {
+    "referencia": "Gl 5,18-25",
+    "texto": "Irmãos, 18se sois conduzidos pelo Espírito, então não estais sob o jugo da Lei. 19São bem conhecidas as obras da carne: fornicação, libertinagem, devassidão, 20idolatria, feitiçaria, inimizades, contendas, ciúmes, iras, intrigas, discórdias, facções, 21invejas, bebedeiras, orgias e coisas semelhantes a essas. Eu vos previno, como, aliás, já o fiz: os que praticam essas coisas não herdarão o Reino de Deus. 22Porém, o fruto do Espírito é: caridade, alegria, paz, longanimidade, benignidade, bondade, lealdade, 23mansidão, continência. Contra essas coisas não existe Lei. 24Os que pertencem a Jesus Cristo crucificaram a carne com suas paixões e seus maus desejos. 25Se vivemos pelo Espírito, procedamos também segundo o Espírito, corretamente."
+  },
+  "reflexao": {
+    "tituloBreve": "A casca e o caroço",
+    "corpo": "Os fariseus mediam com precisão de boticário a décima parte da hortelã e da arruda — e Jesus não lhes nega esse cuidado: \"deveríeis praticar isso sem deixar de lado aquilo\" (Lc 11,42). O que Ele desnuda é a desproporção: tanto zelo pela casca, tanto descaso pelo caroço. A justiça e o amor de Deus ficaram para depois, ou nunca.\n\nÉ fácil ouvir isso como se fosse de outro tempo. Mas a tentação farisaica tem rosto bem atual: cumprir o plano de vida com pontualidade de relógio suíço, riscar cada item da lista de piedade, e, no mesmo dia, responder com aspereza a quem pede ajuda, fechar os ouvidos ao colega que precisa ser escutado, adiar a reconciliação que hoje seria possível. A prática externa, sem o coração que ama, vira túmulo caiado: por fora, ordem; por dentro, vazio que ninguém vê — às vezes nem nós mesmos.\n\nNo espírito de Caminho, São Josemaría insistia em que as normas de piedade não são um fim, mas um cerco amoroso para que o trato com Deus não esmoreça; cumpridas sem alma, deixam de abrir caminho e viram peso — exatamente o que Jesus recrimina, no versículo seguinte, aos mestres da Lei: cargas que nem com um dedo tocam.\n\nExamine-se: não se trata de abandonar a mortificação pequena, o exame de consciência, a Missa diária, a direção espiritual — \"deveríeis praticar isso\". Trata-se de perguntar se, ao cumpri-las, o coração se dilata em caridade ou apenas se tranquiliza por ter marcado a tarefa. Deus Pai não quer um filho escrupuloso com o relógio e surdo ao irmão; quer um filho que, precisamente porque reza, aprende a amar com as mãos.\n\nQuando a prática falhar — e há de falhar —, o recomeço não é vergonha, é filiação: levanta-se, pede-se perdão, começa-se de novo com a mesma ternura com que um pai recebe quem volta.",
+    "paraSilencio": "Em que prática cumpro a letra e esqueço de amar a pessoa diante de mim?",
+    "proposito": "Hoje, ao terminar um momento de oração ou de prática de piedade, buscar deliberadamente um gesto concreto de caridade com alguém próximo, antes de seguir para a tarefa seguinte.",
+    "ancora": "São Josemaría, no espírito de Caminho, ao falar das normas de piedade como meio e não como fim em si mesmas — sem elas degeneram em peso vazio quando falta o amor que as deveria animar.",
+    "imageTheme": "Jesus repreende os fariseus e os mestres da Lei"
+  },
+  "image": {
+    "query": "Woe unto you Pharisees artwork",
+    "title": "Brooklyn Museum - Woe unto You, Scribes and Pharisees (Malheur à vous, scribes et pharisiens) - James Tissot.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Brooklyn_Museum_-_Woe_unto_You%2C_Scribes_and_Pharisees_%28Malheur_%C3%A0_vous%2C_scribes_et_pharisiens%29_-_James_Tissot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "fullSrc": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Brooklyn_Museum_-_Woe_unto_You%2C_Scribes_and_Pharisees_%28Malheur_%C3%A0_vous%2C_scribes_et_pharisiens%29_-_James_Tissot.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_-_Woe_unto_You,_Scribes_and_Pharisees_(Malheur_%C3%A0_vous,_scribes_et_pharisiens)_-_James_Tissot.jpg",
+    "artist": "James Tissot",
+    "credit": "Online Collection of Brooklyn Museum; Photo: Brooklyn Museum, 2008, 00.159.209_PS2.jpg",
+    "license": "Public domain",
+    "licenseUrl": ""
+  },
+  "meta": {
+    "model": "claude-sonnet-5",
+    "geradoEm": "2026-10-14T08:36:18.173Z",
+    "caracteres": 1748
+  }
+}
