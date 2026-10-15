@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-15",
+  "liturgia": "Santa Teresa de Jesus, virgem e doutora da Igreja, Memória",
+  "cor": "Branco",
+  "evangelho": {
+    "referencia": "Lc 11,47-54",
+    "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+    "texto": "Naquele tempo, disse o Senhor: 47“Ai de vós, porque construís os túmulos dos profetas; no entanto, foram vossos pais que os mataram. 48Com isso, vós sois testemunhas e aprovais as obras de vossos pais, pois eles mataram os profetas e vós construís os túmulos. 49É por isso que a sabedoria de Deus afirmou: Eu lhes enviarei profetas e apóstolos, e eles matarão e perseguirão alguns deles, 50a fim de que se peçam contas a esta geração do sangue de todos os profetas derramado desde a criação do mundo, 51desde o sangue de Abel até o sangue de Zacarias, que foi morto entre o altar e o santuário. Sim, eu vos digo, serão pedidas contas disso a esta geração. 52Ai de vós, mestres da Lei, porque tomastes a chave da ciência. Vós mesmos não entrastes e ainda impedistes os que queriam entrar”. 53Quando Jesus saiu daí, os mestres da Lei e os fariseus começaram a tratá-lo mal e a provocá-lo sobre muitos pontos. 54Armavam ciladas para pegá-lo de surpresa por qualquer palavra que saísse de sua boca."
+  },
+  "primeiraLeitura": {
+    "referencia": "Ef 1,1-10",
+    "texto": "1Paulo, apóstolo de Cristo Jesus pela vontade de Deus, aos santos e fiéis em Cristo Jesus: 2a vós, graça e paz da parte de Deus, nosso Pai, e do Senhor Jesus Cristo. 3Bendito seja Deus, Pai de nosso Senhor Jesus Cristo. Ele nos abençoou com toda a bênção do seu Espírito em virtude de nossa união com Cristo, no céu. 4Em Cristo, ele nos escolheu, antes da fundação do mundo, para que sejamos santos e irrepreensíveis sob o seu olhar, no amor. 5Ele nos predestinou para sermos seus filhos adotivos por intermédio de Jesus Cristo, conforme a decisão da sua vontade, 6para o louvor da sua glória e da graça com que ele nos cumulou no seu bem-amado. 7Pelo seu sangue, nós somos libertados. Nele, as nossas faltas são perdoadas, segundo a riqueza da sua graça, 8que Deus derramou profusamente sobre nós, abrindo-nos a toda sabedoria e prudência. 9Ele nos fez conhecer o mistério da sua vontade, o desígnio benevolente que de antemão determinou em si mesmo, 10para levar à plenitude o tempo estabelecido e recapitular, em Cristo, o universo inteiro: tudo o que está nos céus e tudo o que está sobre a terra."
+  },
+  "reflexao": {
+    "tituloBreve": "A chave que não se usa",
+    "corpo": "A cena é dura. Jesus está à mesa de um fariseu, cercado de mestres da Lei — homens que passaram a vida estudando a Escritura, que sabiam de cor os profetas cujos túmulos agora enfeitavam. E a eles o Senhor diz algo que corta mais fundo que qualquer acusação de hipocrisia externa: “tomastes a chave da ciência. Vós mesmos não entrastes e ainda impedistes os que queriam entrar” (Lc 11,52).\n\nNão é a ignorância que Jesus acusa. É a posse estéril do conhecimento. Eles tinham a chave — a Lei, as promessas, o sentido das Escrituras — e a guardaram fechada em si mesmos, convertendo o saber em muro em vez de porta. Pior: tornaram-se obstáculo para quem, com menos luzes, ainda queria entrar.\n\nEsse versículo acusa algo muito comum em quem já tem alguma formação cristã consolidada: conhecer bem a doutrina sobre a oração e não rezar; saber exatamente o que é perdoar e guardar rancor em casa; dominar a teoria da caridade e ser árido com quem depende de nós. Quanto mais sólida a chave que se recebeu, maior a responsabilidade de atravessar a porta com ela — e maior o escândalo quando, em vez disso, ela serve para julgar os de fora.\n\nSão Josemaría insiste, sobretudo em Amigos de Deus, ao falar da unidade de vida, que não há lugar para uma consciência dividida entre o que se sabe e o que se vive: a fé que não se traduz em conduta concreta não converte ninguém, apenas tranca a casa por dentro.\n\nMas o Evangelho não termina em condenação. Quem acusa é o mesmo que, pouco depois, dará a vida para que a porta nunca mais se feche. A chave verdadeira não é um troféu intelectual: é a filiação. Você não precisa ter entendido tudo para entrar — precisa deixar que o Pai o puxe para dentro hoje, de novo, com o que sabe e o que ainda não vive.",
+    "paraSilencio": "Que verdade você já conhece bem e ainda não deixou entrar na sua vida?",
+    "proposito": "Hoje, escolha uma única verdade que você domina de cor e viva-a numa ação concreta diante de alguém, antes de voltar a estudá-la ou explicá-la a outro.",
+    "ancora": "São Josemaría, em Amigos de Deus, ao tratar da unidade de vida: adverte contra a consciência dividida entre o que se sabe da fé e o que se vive na conduta diária",
+    "imageTheme": "Jesus confronta os mestres da Lei e fariseus à mesa, denunciando a chave da ciência não usada"
+  },
+  "image": null,
+  "meta": {
+    "model": "claude-sonnet-5",
+    "geradoEm": "2026-10-15T08:11:47.836Z",
+    "caracteres": 1740
+  }
+}
