@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-16",
+  "liturgia": "6ª feira da 28ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "evangelho": {
+    "referencia": "Lc 12,1-7",
+    "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+    "texto": "Naquele tempo, 1milhares de pessoas se reuniram, a ponto de uns pisarem os outros. Jesus começou a falar, primeiro a seus discípulos: “Tomai cuidado com o fermento dos fariseus, que é a hipocrisia. 2Não há nada de escondido que não venha a ser revelado, e não há nada de oculto que não venha a ser conhecido. 3Portanto, tudo o que tiverdes dito na escuridão será ouvido à luz do dia; e o que tiverdes pronunciado ao pé do ouvido, no quarto, será proclamado sobre os telhados. 4Pois bem, meus amigos, eu vos digo, não tenhais medo daqueles que matam o corpo, não podendo fazer mais do que isso. 5Vou mostrar-vos a quem deveis temer: temei aquele que, depois de tirar a vida, tem o poder de lançar-vos no inferno. Sim, eu vos digo, a esse temei. 6Não se vendem cinco pardais por uma pequena quantia? No entanto, nenhum deles é esquecido por Deus. 7Até mesmo os cabelos de vossa cabeça estão todos contados. Não tenhais medo! Vós valeis mais do que muitos pardais”."
+  },
+  "primeiraLeitura": {
+    "referencia": "Ef 1,11-14",
+    "texto": "Irmãos, 11em Cristo nós recebemos a nossa parte. Segundo o projeto daquele que conduz tudo conforme a decisão de sua vontade, nós fomos predestinados 12a ser, para o louvor de sua glória, os que de antemão colocaram a sua esperança em Cristo. 13Nele também vós ouvistes a Palavra da verdade, o Evangelho que vos salva. Nele, ainda, acreditastes e fostes marcados com o selo do Espírito prometido, o Espírito Santo, 14o que é o penhor da nossa herança para a redenção do povo que ele adquiriu para o louvor da sua glória."
+  },
+  "reflexao": {
+    "tituloBreve": "Sem fachada diante do Pai",
+    "corpo": "A multidão se aperta de tal modo que uns pisam os outros — e é nesse aperto, antes de falar às massas, que Jesus se volta primeiro para os seus: \"Tomai cuidado com o fermento dos fariseus, que é a hipocrisia\" (Lc 12,1). A multidão vê o gesto público; os discípulos precisam ouvir o que acontece por dentro do gesto. Esse é o alvo do versículo: não o pecado que se vê, mas a distância entre o que se mostra e o que se é.\n\nO fermento da hipocrisia não é um ato isolado — é uma levedura, cresce devagar, invade a massa inteira sem ruído. É a vida compartimentada: um rosto para a missa, outro para o trabalho; palavras cuidadas diante de uns, ásperas no segredo da casa; a oração que se reza por hábito enquanto o coração negocia outra coisa. Jesus não condena o erro cometido — condena a dobra, o remendo que separa o que se faz do que se é.\n\nSão Josemaría voltava a isto com insistência: o cristão não pode ter uma vida fragmentada, com um compartimento para a fé e outro para a profissão, a família, as decisões de cada dia. Em Amigos de Deus, ao falar da unidade de vida, ele pede que tudo — o trabalho, o cansaço, a palavra dita a sós — seja a mesma matéria oferecida a Deus, sem fachadas internas.\n\nO versículo acusa exatamente essa fenda: viver bem vigiado por fora e desleixado por dentro, confiando que o oculto permanece oculto. Mas \"nada há de escondido que não venha a ser revelado\" (Lc 12,2) — não como ameaça de exposição, e sim como a lógica de um Pai que já vê tudo e, mesmo assim, conta os cabelos da sua cabeça. Não há nada a esconder de quem já ama o que conhece inteiro. Essa é a filiação: não fingir diante de quem não exige fachada, só verdade e recomeço.",
+    "paraSilencio": "Há algum canto da minha vida que só mostro a Deus de longe, como quem o mostra a um estranho?",
+    "proposito": "Hoje, antes de uma conversa ou decisão em que normalmente ajusto o tom para agradar, farei o mesmo gesto interior que faria diante de Deus sozinho — sem remendo entre os dois.",
+    "ancora": "São Josemaría, em Amigos de Deus, ao tratar da unidade de vida: o cristão não pode viver dividido entre uma vida interior e as ocupações comuns, mas deve oferecer tudo, sem fachadas, à mesma e única vida com Deus.",
+    "imageTheme": "Jesus fala aos discípulos em meio à multidão apertada, advertindo contra a hipocrisia dos fariseus"
+  },
+  "image": {
+    "query": "Christ preaching to crowd painting",
+    "title": "Cornelis van Dalem (attr.) and Jan van Wechelen (attr.) - Church interior with Christ preaching to a crowd.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Cornelis_van_Dalem_%28attr.%29_and_Jan_van_Wechelen_%28attr.%29_-_Church_interior_with_Christ_preaching_to_a_crowd.jpg/1920px-Cornelis_van_Dalem_%28attr.%29_and_Jan_van_Wechelen_%28attr.%29_-_Church_interior_with_Christ_preaching_to_a_crowd.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "fullSrc": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Cornelis_van_Dalem_%28attr.%29_and_Jan_van_Wechelen_%28attr.%29_-_Church_interior_with_Christ_preaching_to_a_crowd.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Cornelis_van_Dalem_(attr.)_and_Jan_van_Wechelen_(attr.)_-_Church_interior_with_Christ_preaching_to_a_crowd.jpg",
+    "artist": "Attributed to Cornelis van Dalem / Attributed to Jan van Wechelen",
+    "credit": "http://hdl.handle.net/10934/RM0001.COLLECT.8263",
+    "license": "Public domain",
+    "licenseUrl": ""
+  },
+  "meta": {
+    "model": "claude-sonnet-5",
+    "geradoEm": "2026-10-16T08:04:32.957Z",
+    "caracteres": 1674
+  }
+}
