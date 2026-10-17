@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-17",
+  "liturgia": "Santo Inácio de Antioquia, bispo e mártir, Memória",
+  "cor": "Vermelho",
+  "evangelho": {
+    "referencia": "Lc 12,8-12",
+    "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+    "texto": "Naquele tempo, disse Jesus aos seus discípulos: 8“Todo aquele que der testemunho de mim diante dos homens, o Filho do Homem também dará testemunho dele diante dos anjos de Deus. 9Mas aquele que me renegar diante dos homens será negado diante dos anjos de Deus. 10Todo aquele que disser alguma coisa contra o Filho do Homem será perdoado. Mas quem blasfemar contra o Espírito Santo não será perdoado. 11Quando vos conduzirem diante das sinagogas, magistrados e autoridades, não fiqueis preocupados em como ou com que vos defendereis ou com o que direis. 12Pois nessa hora o Espírito Santo vos ensinará o que deveis dizer”."
+  },
+  "primeiraLeitura": {
+    "referencia": "Ef 1,15-23",
+    "texto": "Irmãos, 15desde que soube da vossa fé no Senhor Jesus e do vosso amor para com todos os santos, 16não cesso de dar graças a vosso respeito quando me lembro de vós em minhas orações. 17Que o Deus de nosso Senhor Jesus Cristo, o Pai a quem pertence a glória, vos dê um espírito de sabedoria que vo-lo revele e faça verdadeiramente conhecer. 18Que ele abra o vosso coração à sua luz, para que saibais qual a esperança que o seu chamamento vos dá, qual a riqueza da glória que está na vossa herança com os santos 19e que imenso poder ele exerceu em favor de nós que cremos, de acordo com a sua ação e força onipotente. 20Ele manifestou sua força em Cristo quando o ressuscitou dos mortos e o fez sentar-se à sua direita nos céus, 21bem acima de toda autoridade, poder, potência, soberania ou qualquer título que se possa nomear não somente neste mundo, mas ainda no mundo futuro. 22Sim, ele pôs tudo sob os seus pés e fez dele, que está acima de tudo, a cabeça da Igreja, 23que é o seu corpo, a plenitude daquele que possui a plenitude universal."
+  },
+  "reflexao": {
+    "tituloBreve": "Testemunho sem alarde",
+    "corpo": "Jesus fala a seus discípulos em tom sereno, quase doméstico, antes de anunciar as perseguições que virão. Não está traçando o perfil de um herói extraordinário, mas descrevendo uma lógica simples: \"Todo aquele que der testemunho de mim diante dos homens, o Filho do Homem também dará testemunho dele diante dos anjos de Deus\" (Lc 12,8).\n\nO testemunho de que fala não é, na maioria dos dias, um tribunal nem um martírio. É a trama miúda da vida comum: nomear a Deus com naturalidade numa conversa de trabalho, não rir de uma piada que ridiculariza a fé, fazer o sinal da cruz sem esconder a mão, dizer que se vai à Missa quando perguntam o que se fez no domingo. É precisamente aí, nessas ocasiões pequenas e repetidas, que se decide se confessamos ou calamos a Cristo.\n\nA falha que o versículo expõe não costuma ter rosto de apostasia: tem rosto de respeito humano, esse medo manso de parecer diferente, exagerado, fora de moda. São Josemaría, em Caminho, ao tratar justamente do respeito humano, adverte que esse temor covarde é uma lepra que vai corroendo por dentro a vida de piedade, e pede a coragem de viver sem máscaras diante dos outros o que se vive diante de Deus.\n\nMas o Senhor não espera de nós proezas: espera filhos que não se envergonhem do Pai. Quando caímos em silêncio por covardia, Ele não nos risca do livro — nos convida a recomeçar hoje mesmo, com a mesma naturalidade filial com que uma criança fala do pai que ama, sem cálculo nem vergonha.",
+    "paraSilencio": "Em que momento de hoje calei, por medo humano, o que deveria ter dito com simplicidade de filho?",
+    "proposito": "Hoje, diante de uma ocasião concreta — uma conversa, uma pergunta, um gesto —, falarei de Deus ou agirei como cristão com naturalidade, sem alarde e sem esconder-me.",
+    "ancora": "São Josemaría, em Caminho, ao tratar do respeito humano, adverte contra esse medo covarde de parecer diferente e convida a viver sem máscaras a fé diante dos outros",
+    "imageTheme": "Jesus ensina os discípulos sobre o testemunho diante dos homens"
+  },
+  "image": {
+    "query": "Christ teaching his disciples painting",
+    "title": "William de Brailes - Christ Appears at Lake Tiberias (John 21 -1-9) - Walters W10620R - Full Page.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/84/William_de_Brailes_-_Christ_Appears_at_Lake_Tiberias_%28John_21_-1-9%29_-_Walters_W10620R_-_Full_Page.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "fullSrc": "https://upload.wikimedia.org/wikipedia/commons/8/84/William_de_Brailes_-_Christ_Appears_at_Lake_Tiberias_%28John_21_-1-9%29_-_Walters_W10620R_-_Full_Page.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:William_de_Brailes_-_Christ_Appears_at_Lake_Tiberias_(John_21_-1-9)_-_Walters_W10620R_-_Full_Page.jpg",
+    "artist": "William de Brailes",
+    "credit": "Walters Art Museum: Home page Info about artwork",
+    "license": "Public domain",
+    "licenseUrl": ""
+  },
+  "meta": {
+    "model": "claude-sonnet-5",
+    "geradoEm": "2026-10-17T07:42:04.132Z",
+    "caracteres": 1464
+  }
+}
