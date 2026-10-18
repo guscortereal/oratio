@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-18",
+  "liturgia": "29º Domingo do Tempo Comum",
+  "cor": "Verde",
+  "evangelho": {
+    "referencia": "Mt 22,15-21",
+    "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+    "texto": "Naquele tempo, 15os fariseus fizeram um plano para apanhar Jesus em alguma palavra. 16Então mandaram os seus discípulos, junto com alguns do partido de Herodes, para dizerem a Jesus: “Mestre, sabemos que és verdadeiro e que, de fato, ensinas o caminho de Deus. Não te deixas influenciar pela opinião dos outros, pois não julgas um homem pelas aparências. 17Dize-nos, pois, o que pensas: é lícito ou não pagar imposto a César?” 18Jesus percebeu a maldade deles e disse: “Hipócritas! Por que me preparais uma armadilha? 19Mostrai-me a moeda do imposto!” Levaram-lhe então a moeda. 20E Jesus disse: “De quem é a figura e a inscrição desta moeda?” 21Eles responderam: “De César”. Jesus então lhes disse: “Dai, pois, a César o que é de César e a Deus o que é de Deus”."
+  },
+  "primeiraLeitura": {
+    "referencia": "Is 45,1.4-6",
+    "texto": "1Isto diz o Senhor sobre Ciro, seu ungido: “Tomei-o pela mão para submeter os povos ao seu domínio, dobrar o orgulho dos reis, abrir todas as portas à sua marcha e para não deixar trancar os portões. 4Por causa de meu servo Jacó e de meu eleito Israel, chamei-te pelo nome; reservei-te, e não me reconheceste. 5Eu sou o Senhor, não existe outro: fora de mim não há deus. Armei-te guerreiro, sem me reconheceres, 6para que todos saibam, do oriente ao ocidente, que fora de mim outro não existe. Eu sou o Senhor, não há outro”."
+  },
+  "reflexao": {
+    "tituloBreve": "A imagem que você leva gravada",
+    "corpo": "Eles trazem a moeda e Jesus faz a pergunta que desarma a armadilha: de quem é esta figura? Do imperador, respondem. E então vem a frase que corta: \"Dai a César o que é de César e a Deus o que é de Deus\" (Mt 22,21). A moeda leva gravada a imagem de César; por isso é dele. Mas há algo que leva gravada a imagem de Deus — e isso é seu, por inteiro, sem resto a repartir.\n\nA armadilha dos fariseus era política; a resposta de Jesus é mais funda que qualquer política. Não está ensinando apenas a distinguir dois impostos, mas a reconhecer duas pertenças. E a tentação permanece intacta hoje: tratar a vida como se fosse dividida em territórios — de um lado o trabalho, a casa, o dinheiro, as ambições, tudo entregue a César sem reservas; do outro, um fragmento de domingo, uma oração apressada, entregue a Deus como quem paga um tributo mínimo para ficar em paz.\n\nSão Josemaría insistia, no espírito de Amigos de Deus, que não existe uma vida dupla para quem segue a Cristo: não há um eu que trabalha e outro que reza, um eu profissional e outro cristão. Há uma só vida, e tudo nela — a reunião, a planilha, o cansaço do fim de tarde — pode ser moeda com a imagem do Pai, oferecida sem desconto.\n\nA falha que este versículo expõe não é a de pagar impostos de menos; é a de entregar a Deus apenas o excedente, o que sobra depois que César já pegou o melhor. E, no entanto, filho não divide o coração com o Pai. Quem é filho pode recomeçar hoje mesmo a unificar o que fragmentou: não acrescentando uma devoção a mais, mas oferecendo o que já faz, inteiro.",
+    "paraSilencio": "Que parte da minha vida ainda trato como se fosse só de César?",
+    "proposito": "Ao começar amanhã a primeira tarefa do trabalho, oferecê-la explicitamente ao Pai como ato de filho, antes de fazer qualquer outra coisa.",
+    "ancora": "São Josemaría, em Amigos de Deus, ao tratar da unidade de vida: não há uma vida dupla para o cristão, mas uma só vida, feita carne e espírito, que se santifica inteira.",
+    "imageTheme": "Jesus mostra a moeda do imposto e responde aos fariseus sobre César e Deus"
+  },
+  "image": {
+    "query": "Christ and the tribute money painting",
+    "title": "Titian - The Tribute Money - Google Art Project.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Titian_-_The_Tribute_Money_-_Google_Art_Project.jpg/1920px-Titian_-_The_Tribute_Money_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "fullSrc": "https://upload.wikimedia.org/wikipedia/commons/1/11/Titian_-_The_Tribute_Money_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Titian_-_The_Tribute_Money_-_Google_Art_Project.jpg",
+    "artist": "Titian",
+    "credit": "Google Arts &amp; Culture — 4AE4QlMMLXgOXQ",
+    "license": "Public domain",
+    "licenseUrl": ""
+  },
+  "meta": {
+    "model": "claude-sonnet-5",
+    "geradoEm": "2026-10-18T07:57:00.578Z",
+    "caracteres": 1550
+  }
+}
