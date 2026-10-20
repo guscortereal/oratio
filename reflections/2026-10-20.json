@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-20",
+  "liturgia": "3ª feira da 29ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "evangelho": {
+    "referencia": "Lc 12,35-38",
+    "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+    "texto": "Naquele tempo, disse Jesus aos seus discípulos: 35“Que vossos rins estejam cingidos e as lâmpadas acesas. 36Sede como homens que estão esperando seu senhor voltar de uma festa de casamento para lhe abrirem imediatamente a porta, logo que ele chegar e bater. 37Felizes os empregados que o senhor encontrar acordados quando chegar. Em verdade eu vos digo, ele mesmo vai cingir-se, fazê-los sentar-se à mesa e, passando, os servirá. 38E caso ele chegue à meia-noite ou às três da madrugada, felizes serão se assim os encontrar!”"
+  },
+  "primeiraLeitura": {
+    "referencia": "Ef 2,12-22",
+    "texto": "Irmãos, 12naquele tempo, éreis sem Messias, privados de cidadania em Israel, estranhos às alianças da promessa, sem esperança e sem Deus no mundo. 13Mas agora, em Jesus Cristo, vós, que outrora estáveis longe, vos tornastes próximos pelo sangue de Cristo. 14Ele, de fato, é a nossa paz: do que era dividido, ele fez uma unidade. Em sua carne ele destruiu o muro de separação: a inimizade. 15Ele aboliu a Lei com seus mandamentos e decretos. Ele quis, assim, a partir do judeu e do pagão, criar em si um só homem novo, estabelecendo a paz. 16Quis reconciliá-los com Deus, ambos em um só corpo, por meio da cruz; assim ele destruiu em si mesmo a inimizade. 17Ele veio anunciar a paz a vós que estáveis longe e a paz aos que estavam próximos. 18É graças a ele que uns e outros, em um só Espírito, temos acesso junto ao Pai. 19Assim, já não sois mais estrangeiros nem migrantes, mas concidadãos dos santos. Sois da família de Deus. 20Vós fostes integrados no edifício que tem como fundamento os apóstolos e os profetas, e o próprio Jesus Cristo como pedra principal. 21É nele que toda construção se ajusta e se eleva para formar um templo santo no Senhor. 22E vós também sois integrados nessa construção, para vos tornardes morada de Deus pelo Espírito."
+  },
+  "reflexao": {
+    "tituloBreve": "A lâmpada que não se apaga",
+    "corpo": "É noite. Os servos aguardam com os rins cingidos e a lâmpada acesa, o ouvido atento ao som da porta. Não sabem a hora exata do regresso — sabem apenas que o senhor virá de uma festa de núpcias, e que a espera não pode relaxar em sono nem em escuridão.\n\nO versículo 37 inverte tudo: \"ele mesmo vai cingir-se, fazê-los sentar-se à mesa e, passando, os servirá.\" O senhor que deveria ser servido torna-se servidor. A vigília não termina em exame aprovado, mas em banquete onde quem chega passa a servir quem esperou.\n\nAí está a ideia que corta: vigiar não é a tensão de quem teme ser flagrado, mas a constância de quem ama e por isso não deixa a lâmpada apagar-se, ainda que a espera se estenda até a terceira vigília da madrugada.\n\nA falha que este texto acusa não costuma ser o grande naufrágio, mas o desgaste silencioso: a oração da noite adiada porque hoje o cansaço parece justificativa suficiente, o exame de consciência pulado \"só desta vez\", a pequena pontualidade negligenciada. A lâmpada não se apaga de um golpe — apaga-se gota a gota, de fidelidade em fidelidade descuidada.\n\nSão Josemaría, no espírito de Caminho, ao insistir na perseverança nas coisas pequenas, lembra que não existe vigília grande sem vigílias mínimas sustentadas dia após dia; é nelas, e não em gestos extraordinários, que se decide se a lâmpada chegará acesa até o encontro.\n\nO Pai não espreita para surpreender uma falha: espera para servir o filho que permaneceu fiel. Vigiar, afinal, não é postura de escravo receoso, mas resposta de quem sabe que é esperado por Alguém que ama.",
+    "paraSilencio": "Que lâmpada, em mim, está com o óleo se esgotando sem que eu tenha percebido?",
+    "proposito": "Hoje, antes de dormir, fazer um breve exame de consciência de cinco minutos, sem pressa, como quem cingir os rins para a vinda do Senhor.",
+    "ancora": "São Josemaría, em Caminho, ao tratar da perseverança e da fidelidade nas pequenas coisas da vida interior (escriva.org/pt-br)",
+    "imageTheme": "Servos vigilantes à noite esperando o senhor voltar da festa de casamento, lâmpadas acesas"
+  },
+  "image": null,
+  "meta": {
+    "model": "claude-sonnet-5",
+    "geradoEm": "2026-10-20T08:25:19.297Z",
+    "caracteres": 1563
+  }
+}
