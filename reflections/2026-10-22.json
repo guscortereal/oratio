@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-22",
+  "liturgia": "5ª feira da 29ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "evangelho": {
+    "referencia": "Lc 12,49-53",
+    "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+    "texto": "Naquele tempo, disse Jesus aos seus discípulos: 49“Eu vim para lançar fogo sobre a terra e como gostaria que já estivesse aceso! 50Devo receber um batismo e como estou ansioso até que isso se cumpra! 51Vós pensais que eu vim trazer a paz sobre a terra? Pelo contrário, eu vos digo, vim trazer divisão. 52Pois daqui em diante, numa família de cinco pessoas, três ficarão divididas contra duas e duas contra três; 53ficarão divididos o pai contra o filho e o filho contra o pai, a mãe contra a filha e a filha contra a mãe, a sogra contra a nora e a nora contra a sogra”."
+  },
+  "primeiraLeitura": {
+    "referencia": "Ef 3,14-21",
+    "texto": "Irmãos, 14eu dobro os joelhos diante do Pai, 15de quem toda e qualquer família recebe seu nome no céu e sobre a terra. 16Que ele vos conceda, segundo a riqueza da sua glória, serdes robustecidos, por seu Espírito, quanto ao homem interior; 17que ele faça habitar, pela fé, Cristo em vossos corações; que estejais enraizados e fundados no amor. 18Tereis assim a capacidade de compreender, com todos os santos, qual a largura, o comprimento, a altura, a profundidade, 19e de conhecer o amor de Cristo, que ultrapassa todo conhecimento, a fim de que sejais cumulados até receber toda a plenitude de Deus. 20Àquele que tudo pode realizar superabundantemente, e muito mais do que nós pedimos ou concebemos, e cujo poder atua em nós, 21a ele a glória, na Igreja e em Jesus Cristo, por todas as gerações, para sempre. Amém."
+  },
+  "reflexao": {
+    "tituloBreve": "O fogo que não se apaga",
+    "corpo": "Jesus caminha com os seus para Jerusalém, e o passo se faz grave. Ele mesmo confessa a ansiedade: \"como gostaria que já estivesse aceso!\" (v.49). Não fala de destruição, mas de um incêndio que precisa arder — o seu próprio amor entregue até o fim, o batismo de sangue que o espera.\n\nE então vem o verso que corta: \"vim trazer divisão\" (v.51). Não porque Cristo deseje discórdia, mas porque a verdade, quando é viva, não se dobra à acomodação do grupo, da mesa, da família. Há uma paz falsa — a do silêncio cúmplice, a de evitar o assunto para não incomodar — que o Evangelho recusa nomear como paz.\n\nSão Josemaría, falando do fogo do amor de Deus no espírito de Caminho, lembra que esse fogo não foi aceso para ficar escondido debaixo do alqueire: ou arde e ilumina, ou se apaga em morna covardia. É exatamente essa a ferida que o versículo 49 expõe: quantas vezes preferimos o fogo abafado — a opinião engolida na reunião, a verdade que se cala em casa para não gerar atrito, a fé vivida em surdina para não ‘causar problema’.\n\nIsso não é prudência, é tibieza disfarçada de paz. E Cristo não veio para isso. Ele veio para que a verdade, dita com caridade, acenda o que precisa arder — ainda que doa, ainda que divida por um tempo o que só a graça há de reunir depois, numa paz mais funda que a acomodação.\n\nNão fiques, porém, no fio cortante do versículo. Quem acende esse fogo é o mesmo Pai que te quer filho livre, não refém do medo de desagradar. Cair na morneza não é o fim: é o Pai que, hoje mesmo, reacende em ti a brasa que o pecado ou o comodismo abafaram.",
+    "paraSilencio": "Que fogo tenho eu, hoje, abafado debaixo do alqueire por medo de incomodar?",
+    "proposito": "Hoje, dizer com caridade e sem rodeios uma verdade pequena que eu costumo calar para evitar atrito.",
+    "ancora": "São Josemaría, em Caminho, ao tratar do fogo do amor de Deus e da necessidade de não viver uma fé morna ou escondida",
+    "imageTheme": "Jesus caminha com os discípulos anunciando o fogo e a divisão"
+  },
+  "image": null,
+  "meta": {
+    "model": "claude-sonnet-5",
+    "geradoEm": "2026-10-22T08:30:47.131Z",
+    "caracteres": 1565
+  }
+}
