@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-24",
+  "liturgia": "Sábado da 29ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "evangelho": {
+    "referencia": "Lc 13,1-9",
+    "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+    "texto": "1Naquele tempo, vieram algumas pessoas trazendo notícias a Jesus a respeito dos galileus que Pilatos tinha matado, misturando seu sangue com o dos sacrifícios que ofereciam. 2Jesus lhes respondeu: “Vós pensais que esses galileus eram mais pecadores do que todos os outros galileus por terem sofrido tal coisa? 3Eu vos digo que não. Mas, se vós não vos converterdes, ireis morrer todos do mesmo modo. 4E aqueles dezoito que morreram quando a torre de Siloé caiu sobre eles? Pensais que eram mais culpados do que todos os outros moradores de Jerusalém? 5Eu vos digo que não. Mas, se não vos converterdes, ireis morrer todos do mesmo modo”. 6E Jesus contou esta parábola: “Certo homem tinha uma figueira plantada na sua vinha. Foi até ela procurar figos e não encontrou. 7Então disse ao vinhateiro: ‘Já faz três anos que venho procurando figos nesta figueira e nada encontro. Corta-a! Por que está ela inutilizando a terra?’ 8Ele, porém, respondeu: ‘Senhor, deixa a figueira ainda este ano. Vou cavar em volta dela e colocar adubo. 9Pode ser que venha a dar fruto. Se não der, então tu a cortarás!'”"
+  },
+  "primeiraLeitura": {
+    "referencia": "Ef 4,7-16",
+    "texto": "Irmãos, 7cada um de nós recebeu a graça na medida em que Cristo lha deu. 8Daí esta palavra: “Tendo subido às alturas, ele capturou prisioneiros e distribuiu dons aos homens”. 9“Ele subiu”! Que significa isso, senão que ele desceu também às profundezas da terra? 10Aquele que desceu é o mesmo que subiu mais alto do que todos os céus, a fim de encher o universo. 11E foi ele quem instituiu alguns como apóstolos, outros como profetas, outros ainda como evangelistas, outros, enfim, como pastores e mestres. 12Assim, ele capacitou os santos para o ministério, para edificar o corpo de Cristo, 13até que cheguemos todos juntos à unidade da fé e do conhecimento do Filho de Deus, ao estado do homem perfeito e à estatura de Cristo em sua plenitude. 14Assim, não seremos mais crianças ao sabor das ondas, arrastados por todo vento de doutrina, ludibriados pelos homens e induzidos por sua astúcia ao erro. 15Motivados pelo amor, queremos ater-nos à verdade e crescer em tudo até atingirmos aquele que é a cabeça, Cristo. 16Graças a ele, o corpo, coordenado e bem unido, por meio de todas as articulações que o servem, realiza o seu crescimento, segundo uma atividade à medida de cada membro, para a sua edificação no amor."
+  },
+  "reflexao": {
+    "tituloBreve": "O tempo que ainda cava a terra",
+    "corpo": "Jesus acaba de desfazer uma ilusão: os galileus mortos por Pilatos, os dezoito esmagados pela torre, não eram piores que os demais. O sofrimento alheio não é termômetro de pecado. E, antes que alguém respire aliviado por não ter sido atingido, Jesus vira a mesa: \"se não vos converterdes, ireis morrer todos do mesmo modo\". Depois, sem pausa, conta a parábola da figueira.\n\nO dono quer cortá-la: três anos sem fruto, só consumindo terra. O vinhateiro pede mais um prazo — mas repare no que ele promete fazer com esse prazo: \"vou cavar em volta dela e colocar adubo\" (Lc 13,8). Não pede tempo para a figueira continuar como está. Pede tempo para trabalhar a terra dela.  Aí está o corte: o adiamento de Deus nunca é anestesia, é enxada. Quantos de nós lemos a paciência divina como prova de que estamos bem — porque ainda não caiu nenhuma torre, porque a vida segue, porque ninguém nos cobrou nada — quando na verdade esse tempo ganho é exatamente o tempo de cavar, de remexer o que está endurecido, de pôr adubo onde só há folhas sem fruto. A figueira que confunde prazo com absolvição morre do mesmo jeito, só que mais tarde.  São Josemaría, ao falar da conversão no espírito de Caminho, insiste em que a vida interior não admite adiamentos: cada 'amanhã eu mudo' é uma pequena traição disfarçada de prudência. A santidade se decide hoje, nas ocupações concretas de hoje, ou não se decide.  Mas o vinhadeiro não desiste da figueira por obrigação — intercede por ela como quem ama o que plantou. É assim o Pai: não espera o fruto para nos querer bem; cava a terra porque já nos quer filhos frutíferos. A ferida que este Evangelho abre — a tentação de viver tranquilo porque nada de grave aconteceu ainda — só se fecha reconhecendo que o tempo que resta não é trégua, é graça em ação, e que recomeçar hoje mesmo, nas coisas pequenas do trabalho e da casa, é a única resposta que não adia a vida.",
+    "paraSilencio": "Que parte de mim vive tranquila só porque ainda não caiu nenhuma torre?",
+    "proposito": "Hoje, escolher uma única atitude concreta e pequena — pontualidade, paciência com alguém de casa, um minuto a mais de oração — como o 'adubo' deste dia, sem adiar para amanhã.",
+    "ancora": "São Josemaría, em Caminho, ao tratar da conversão e do perigo de adiar a luta interior para 'amanhã'",
+    "imageTheme": "O vinhateiro cavando a terra em volta da figueira estéril, sob o olhar do dono da vinha"
+  },
+  "image": null,
+  "meta": {
+    "model": "claude-sonnet-5",
+    "geradoEm": "2026-10-24T08:01:50.065Z",
+    "caracteres": 1894
+  }
+}
