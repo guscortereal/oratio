@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-26",
+  "liturgia": "2ª feira da 30ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "evangelho": {
+    "referencia": "Lc 13,10-17",
+    "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+    "texto": "Naquele tempo, 10Jesus estava ensinando numa sinagoga em dia de sábado. 11Havia aí uma mulher que, fazia dezoito anos, estava com um espírito que a tornava doente. Era encurvada e incapaz de se endireitar. 12Vendo-a, Jesus chamou-a e lhe disse: “Mulher, estás livre da tua doença”. 13Jesus colocou as mãos sobre ela, e imediatamente a mulher se endireitou e começou a louvar a Deus. 14O chefe da sinagoga ficou furioso, porque Jesus tinha feito uma cura em dia de sábado. E, tomando a palavra, começou a dizer à multidão: “Existem seis dias para trabalhar. Vinde, então, nesses dias para serdes curados, mas não em dia de sábado”. 15O Senhor lhe respondeu: “Hipócritas! Cada um de vós não solta do curral o boi ou o jumento para dar-lhe de beber, mesmo que seja dia de sábado? 16Esta filha de Abraão, que satanás amarrou durante dezoito anos, não deveria ser libertada dessa prisão em dia de sábado?” 17Esta resposta envergonhou todos os inimigos de Jesus. E a multidão inteira se alegrava com as maravilhas que ele fazia."
+  },
+  "primeiraLeitura": {
+    "referencia": "Ef 4,32-5,8",
+    "texto": "Irmãos, 32sede bons uns para com os outros, sede compassivos; perdoai-vos mutuamente, como Deus vos perdoou por meio de Cristo. 5,1Sede imitadores de Deus, como filhos que ele ama. 2Vivei no amor, como Cristo nos amou e se entregou a si mesmo a Deus por nós, em oblação e sacrifício de suave odor. 3A devassidão ou qualquer espécie de impureza ou cobiça sequer sejam mencionadas entre vós, como convém a santos. 4Nada de palavras grosseiras, insensatas ou obscenas, que são inconvenientes; dedicai-vos antes à ação de graças. 5Pois, sabei-o bem, o devasso, o impuro, o avarento – que é um idólatra – são excluídos da herança no Reino de Cristo e de Deus. 6Que ninguém vos engane com palavras vazias. Tudo isso atrai a cólera de Deus sobre os que lhe desobedecem. 7Não sejais seus cúmplices. 8Outrora éreis trevas, mas agora sois luz no Senhor. Vivei como filhos da luz."
+  },
+  "reflexao": {
+    "tituloBreve": "Dezoito anos encurvada",
+    "corpo": "Imagina a cena: uma sinagoga cheia, o rabino ensinando, e no meio da multidão uma mulher que há dezoito anos não consegue erguer o rosto. Ninguém mais repara nela — a deformidade virou paisagem, parte do mobiliário humano daquele lugar. Ela não pede nada. Nem sequer se aproxima.\n\nÉ Jesus quem a vê primeiro. \"Vendo-a, Jesus chamou-a\" (Lc 13,12). Antes de qualquer pedido, antes de qualquer fórmula de fé declarada, há um olhar que toma a iniciativa. A cura não nasce da súplica dela: nasce do olhar dele.\n\nNisto está a ideia que corta: há escravidões que deixamos de combater simplesmente porque duram demais. Dezoito anos encurvada é tempo suficiente para que a própria mulher tenha deixado de esperar algo diferente. O defeito vira identidade — \"sou assim mesmo\" — e paramos de pedir a cura porque já nem a imaginamos possível.\n\nSão Josemaría, em Caminho, ao tratar da luta interior, adverte algo semelhante: não devemos nos acostumar a conviver com os próprios defeitos como se fossem hóspedes já instalados, de direito, na casa da alma — isso seria aceitar como lei definitiva o que ainda é ferida a curar.\n\nO chefe da sinagoga representa a outra tentação, mais sutil: ter a lei certa e perder de vista a pessoa diante de si. Preferir o calendário da piedade à misericórdia concreta. Quantas vezes a disciplina de um plano de vida se torna rotina que já não vê ninguém — nem a nós mesmos, encurvados diante de Deus, há tanto tempo que nem percebemos mais a postura.\n\nMas Jesus não espera o dia certo. Rompe o sábado da rotina para libertar uma filha de Abraão — porque cada um de nós é, antes de qualquer diagnóstico espiritual, filho amado, não um caso a resolver em horário próprio. O Pai já viu a curvatura antes que a nomeássemos. Hoje não é preciso esperar um dia melhor para pedir a cura. Basta deixar-se olhar.",
+    "paraSilencio": "Há quanto tempo carrego, como se fosse parte de mim mesmo, algo que Jesus já quer endireitar?",
+    "proposito": "Nomear diante do Senhor, hoje, na oração, um único defeito antigo que já naturalizei, e pedir-lhe explicitamente a graça de começar a me endireitar, sem esperar ocasião mais oportuna.",
+    "ancora": "Em Caminho, ao falar da luta ascética contra os próprios defeitos, São Josemaría adverte contra o risco de nos acomodarmos a eles como se fossem hóspedes definitivos na casa da alma, em vez de combatê-los com esperança de cura (Caminho, tema da luta interior).",
+    "imageTheme": "Jesus cura a mulher encurvada na sinagoga em dia de sábado"
+  },
+  "image": null,
+  "meta": {
+    "model": "claude-sonnet-5",
+    "geradoEm": "2026-10-26T08:47:04.287Z",
+    "caracteres": 1822
+  }
+}
