@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-27",
+  "liturgia": "3ª feira da 30ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "evangelho": {
+    "referencia": "Lc 13,18-21",
+    "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+    "texto": "Naquele tempo, 18Jesus dizia: “A que é semelhante o Reino de Deus e com que poderei compará-lo? 19Ele é como a semente de mostarda, que um homem pega e atira no seu jardim. A semente cresce, torna-se uma grande árvore, e as aves do céu fazem ninhos nos seus ramos”. 20Jesus disse ainda: “Com que poderei ainda comparar o Reino de Deus? 21Ele é como o fermento que uma mulher pega e mistura com três porções de farinha, até que tudo fique fermentado”."
+  },
+  "primeiraLeitura": {
+    "referencia": "Ef 5,21-33",
+    "texto": "Irmãos, 21vós que temeis a Cristo, sede solícitos uns para com os outros. 22As mulheres sejam submissas aos seus maridos como ao Senhor. 23Pois o marido é a cabeça da mulher, do mesmo modo que Cristo é a cabeça da Igreja, ele, o salvador do seu corpo. 24Mas como a Igreja é solícita por Cristo, sejam as mulheres solícitas em tudo pelos seus maridos. 25Maridos, amai as vossas mulheres, como o Cristo amou a Igreja e se entregou por ela. 26Ele quis assim torná-la santa, purificando-a com o banho da água unida à Palavra. 27Ele quis apresentá-la a si mesmo esplêndida, sem mancha, nem ruga, nem defeito algum, mas santa e irrepreensível. 28Assim é que o marido deve amar a sua mulher, como ao seu próprio corpo. Aquele que ama a sua mulher ama-se a si mesmo. 29Ninguém jamais odiou a sua própria carne. Ao contrário, alimenta-a e cerca-a de cuidados, como o Cristo faz com a sua Igreja; 30e nós somos membros do seu corpo! 31Por isso o homem deixará seu pai e sua mãe e se unirá à sua mulher, e os dois serão uma só carne. 32Este mistério é grande, e eu o interpreto em relação a Cristo e à Igreja. 33Em todo caso, cada um, no que lhe toca, deve amar a sua mulher como a si mesmo; e a mulher deve respeitar o seu marido."
+  },
+  "reflexao": {
+    "tituloBreve": "O fermento escondido",
+    "corpo": "Jesus olha para a multidão e não promete fogo do céu nem exército triunfante. Fala de uma semente quase invisível e de um punhado de fermento que uma mulher esconde na massa. É assim, diz Ele, que vem o Reino.\n\nFixemos o v. 21: \"o fermento que uma mulher pega e mistura com três porções de farinha, até que tudo fique fermentado\". Note o verbo: mistura, esconde dentro da massa. O fermento não atua por fora, visível, aplaudido; atua por dentro, lento, oculto, até que tudo — tudo — esteja transformado. Essa é a lógica do Reino: nunca o estrondo, sempre a fidelidade escondida que vai tomando conta.\n\nAqui está a ideia que corta: você quer ver o fruto antes de ter dado o fermento. Mede o valor do seu trabalho, da sua oração, da educação dos filhos, da paciência com quem lhe custa, pelo resultado que aparece hoje — e, como não aparece, desanima ou relaxa. Mas o Reino não funciona por amostra visível; funciona por entrega oculta e perseverante.\n\nSão Josemaría insistia, no espírito de Caminho e de Forja, que não há coisas pequenas: o amor de Deus engrandece tudo o que é feito com amor, ainda que ninguém o note. O fermento que você esconde hoje — um gesto de serviço calado, um trabalho bem-acabado sem testemunhas, uma correção paciente — é precisamente o que o Pai usa para fermentar a massa inteira de uma vida, de uma família, de um escritório.\n\nA falha que o versículo acusa é a pressa de colher sem ter semeado na escuridão. Mas quem é filho não precisa controlar o crescimento: basta esconder o fermento com confiança, porque Quem vê o oculto é o mesmo que ama e sustenta. Nada do que se entrega por amor, mesmo invisível, se perde.",
+    "paraSilencio": "Que fermento você está escondendo hoje sem exigir ver, ainda hoje, a massa crescer?",
+    "proposito": "Fazer hoje um trabalho pequeno e oculto — sem comentar, sem buscar que alguém note — oferecendo-o deliberadamente ao Pai como filho.",
+    "ancora": "São Josemaría, no espírito de Caminho e de Forja, ao falar da santificação das pequenas coisas: nada é pequeno quando é feito por amor de Deus.",
+    "imageTheme": "Jesus explicando à multidão as parábolas da semente de mostarda e do fermento"
+  },
+  "image": null,
+  "meta": {
+    "model": "claude-sonnet-5",
+    "geradoEm": "2026-10-27T08:52:19.727Z",
+    "caracteres": 1646
+  }
+}
