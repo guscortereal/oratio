@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-28",
+  "liturgia": "Santos Simão e Judas, Apóstolos, Festa",
+  "cor": "Vermelho",
+  "evangelho": {
+    "referencia": "Lc 6,12-19",
+    "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+    "texto": "12Naqueles dias, Jesus foi à montanha para rezar. E passou a noite toda em oração a Deus. 13Ao amanhecer, chamou seus discípulos e escolheu doze dentre eles, aos quais deu o nome de apóstolos: 14Simão, a quem impôs o nome de Pedro, e seu irmão André; Tiago e João; Filipe e Bartolomeu; 15Mateus e Tomé; Tiago, filho de Alfeu, e Simão, chamado Zelota; 16Judas, filho de Tiago, e Judas Iscariotes, aquele que se tornou traidor. 17Jesus desceu da montanha com eles e parou num lugar plano. Ali estavam muitos dos seus discípulos e grande multidão de gente de toda a Judeia e de Jerusalém, do litoral de Tiro e Sidônia. 18Vieram para ouvir Jesus e serem curados de suas doenças. E aqueles que estavam atormentados por espíritos maus também foram curados. 19A multidão toda procurava tocar em Jesus, porque uma força saía dele e curava a todos."
+  },
+  "primeiraLeitura": {
+    "referencia": "Ef 2,19-22",
+    "texto": "Irmãos, 19já não sois mais estrangeiros nem migrantes, mas concidadãos dos santos. Sois da família de Deus. 20Vós fostes integrados no edifício que tem como fundamento os apóstolos e os profetas e o próprio Jesus Cristo como pedra principal. 21É nele que toda a construção se ajusta e se eleva para formar um templo santo no Senhor. 22E vós também sois integrados nessa construção, para vos tornardes morada de Deus pelo Espírito."
+  },
+  "reflexao": {
+    "tituloBreve": "Escolhidos na noite escondida",
+    "corpo": "A cena começa na montanha, de noite. Antes de escolher, Jesus reza — reza a noite inteira. Só ao amanhecer chama os discípulos e separa doze, \"aos quais deu o nome de apóstolos\" (Lc 6,13). Entre eles, dois nomes que mal reaparecem depois no Evangelho: Simão, chamado Zelota, e Judas, filho de Tiago. Não fazem milagres narrados, não pronunciam discursos, não são citados em cenas marcantes. E, no entanto, estão ali, recebidos da mesma noite de oração, da mesma escolha, do mesmo envio que Pedro e João.\n\nA Igreja os festeja hoje precisamente por isso: porque sua grandeza não está no relevo que tiveram diante dos homens, mas na fidelidade com que corresponderam a um chamado silencioso — fidelidade que a tradição guarda, sobretudo, no preço final de sangue dado sem testemunhas célebres.\n\nAqui mora a ferida que o versículo expõe: a tentação de medir o próprio valor diante de Deus pela medida com que os outros nos notam. Quando o trabalho é invisível, quando ninguém comenta o esforço, quando a tarefa de hoje é pequena e repetida, insinua-se a ideia de que vale menos. São Josemaría, ao falar em Caminho da vida ordinária e das coisas pequenas, insiste em que não existe pequenez quando se faz por amor: a santidade não se mede pela notoriedade, mas pela entrega escondida e constante.\n\nSimão e Judas foram pedra na construção de que fala Paulo — não porque brilharam, mas porque ficaram. A filiação divina não pede currículo: pede fidelidade. O Pai não ama mais o filho que aparece; ama o filho que permanece. Quem hoje cumpre sem aplauso o que lhe foi confiado está, sem saber, na mesma lista silenciosa dos doze.",
+    "paraSilencio": "Meço meu valor diante de Deus pelo quanto sou notado, ou pela fidelidade com que faço o que ninguém vê?",
+    "proposito": "Hoje, escolher conscientemente uma tarefa pequena e pouco notada e realizá-la com o cuidado que se daria a algo grandioso, sem comentá-la com ninguém.",
+    "ancora": "São Josemaría, em Caminho, ao tratar da vida ordinária e das 'coisas pequenas': não há pequenez quando a ação é feita por amor de Deus.",
+    "imageTheme": "Jesus ora a noite toda na montanha e, ao amanhecer, escolhe os doze apóstolos"
+  },
+  "image": {
+    "query": "Jesus praying on the mountain night",
+    "title": "The interwoven Gospels and Gospel harmony - the four histories of Jesus Christ blended into a complete and continuous narrative in the words of the Gospels, with a complete interleaved harmony (14594447770).jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/1e/The_interwoven_Gospels_and_Gospel_harmony_-_the_four_histories_of_Jesus_Christ_blended_into_a_complete_and_continuous_narrative_in_the_words_of_the_Gospels%2C_with_a_complete_interleaved_harmony_%2814594447770%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "fullSrc": "https://upload.wikimedia.org/wikipedia/commons/1/1e/The_interwoven_Gospels_and_Gospel_harmony_-_the_four_histories_of_Jesus_Christ_blended_into_a_complete_and_continuous_narrative_in_the_words_of_the_Gospels%2C_with_a_complete_interleaved_harmony_%2814594447770%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:The_interwoven_Gospels_and_Gospel_harmony_-_the_four_histories_of_Jesus_Christ_blended_into_a_complete_and_continuous_narrative_in_the_words_of_the_Gospels,_with_a_complete_interleaved_harmony_(14594447770).jpg",
+    "artist": "Internet Archive Book Images",
+    "credit": "https://www.flickr.com/photos/internetarchivebookimages/14594447770/ Source book page: https://archive.org/stream/interwovengospel00pitt/interwovengospel00pitt#page/n116/mode/1up",
+    "license": "No restrictions",
+    "licenseUrl": "https://www.flickr.com/commons/usage/"
+  },
+  "meta": {
+    "model": "claude-sonnet-5",
+    "geradoEm": "2026-10-28T09:32:06.033Z",
+    "caracteres": 1621
+  }
+}
