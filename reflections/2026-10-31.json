@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-31",
+  "liturgia": "Sábado da 30ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "evangelho": {
+    "referencia": "Lc 14,1.7-11¬¬",
+    "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+    "texto": "1Aconteceu que, num dia de sábado, Jesus foi comer na casa de um dos chefes dos fariseus. E eles o observavam. 7Jesus notou como os convidados escolhiam os primeiros lugares. Então, contou-lhes uma parábola: 8“Quando tu fores convidado para uma festa de casamento, não ocupes o primeiro lugar. Pode ser que tenha sido convidado alguém mais importante do que tu, 9e o dono da casa, que convidou os dois, venha te dizer: ‘Dá o lugar a ele’. Então tu ficarás envergonhado e irás ocupar o último lugar. 10Mas, quando tu fores convidado, vai sentar-te no último lugar. Assim, quando chegar quem te convidou, te dirá: ‘Amigo, vem mais para cima’. E isso vai ser uma honra para ti diante de todos os convidados. 11Porque quem se eleva será humilhado, e quem se humilha será elevado”."
+  },
+  "primeiraLeitura": {
+    "referencia": "Fl 1,18-26",
+    "texto": "Irmãos, 18de qualquer maneira, com segundas intenções ou com sinceridade, Cristo é anunciado. E eu me alegro com isso e sempre me alegrarei. 19Pois eu sei que isso resultará na minha salvação graças à vossa oração e à assistência do Espírito de Jesus Cristo. 20Segundo a minha viva expectativa e a minha esperança, não terei de corar de vergonha. Se a minha firmeza continuar total, como sempre, então Cristo vai ser glorificado no meu corpo, seja pela minha vida, seja pela minha morte. 21Pois, para mim, o viver é Cristo e o morrer é lucro. 22Entretanto, se o viver na carne significa que meu trabalho será frutuoso, neste caso não sei o que escolher. 23Sinto-me atraído para os dois lados: tenho o desejo de partir, para estar com Cristo – o que para mim seria de longe o melhor -, 24mas para vós é mais necessário que eu continue minha vida neste mundo. 25Por isso, sei com certeza que vou ficar e continuar com vós todos, para que possais progredir e alegrar-vos na fé. 26Assim, com a minha volta para junto de vós, vai aumentar ainda a razão de vos gloriardes em Cristo Jesus."
+  },
+  "reflexao": {
+    "tituloBreve": "O lugar que ninguém vê",
+    "corpo": "Jesus está à mesa na casa de um fariseu e repara em algo pequeno: como os convidados se movem para os primeiros lugares, quase sem perceber, como quem obedece a um instinto. Não é um banquete de reis — é uma festa comum, e ainda assim ali se trava uma disputa silenciosa por lugar, por reconhecimento, por ser visto.\n\nO versículo que corta é o 11: \"quem se eleva será humilhado, e quem se humilha será elevado\". Não é uma regra de etiqueta social disfarçada de piedade. É um diagnóstico do coração. Buscamos o primeiro lugar porque duvidamos de que, no último, alguém venha nos chamar. A humildade que Jesus pede não nasce de pensar mal de si mesmo, mas de uma confiança tão grande que dispensa a confirmação alheia.\n\nSão Josemaría, em Caminho, ao tratar da humildade, insiste em que ela é o fundamento de todo o edifício espiritual — sem ela, as outras virtudes desabam como casa construída na areia. Não se trata de uma virtude decorativa, mas da condição para que Deus possa agir em nós sem obstáculo.\n\nA falha que este Evangelho expõe é concreta: a necessidade de ser notado no trabalho, de que o próprio esforço seja mencionado, de ocupar na conversa, na família, no grupo, o lugar que confirma que se vale alguma coisa. É uma sede legítima de valor transformada em moeda errada. Mas o Pai já disse a sua palavra definitiva sobre nós antes de qualquer mesa, qualquer festa, qualquer aplauso: somos filhos. Esse lugar não se disputa, não se perde, não precisa ser reconquistado a cada entrada em uma sala. Quem descansa nessa filiação pode, com liberdade, escolher o último lugar — não por estratégia, mas porque já não precisa do primeiro.",
+    "paraSilencio": "Em que mesa de hoje eu estive me movendo, sem perceber, em direção ao primeiro lugar?",
+    "proposito": "Hoje, numa conversa ou reunião, ceder deliberadamente a palavra ou o crédito a outro, sem que ninguém perceba o gesto.",
+    "ancora": "São Josemaría, em Caminho, ao tratar da humildade como fundamento de toda vida interior (paráfrase, sem número exato)",
+    "imageTheme": "Jesus à mesa do fariseu observando os convidados escolherem os primeiros lugares"
+  },
+  "image": {
+    "query": "parable of the wedding feast painting",
+    "title": "Bernardo Strozzi - Parable of the Wedding Feast.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Bernardo_Strozzi_-_Parable_of_the_Wedding_Feast.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "fullSrc": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Bernardo_Strozzi_-_Parable_of_the_Wedding_Feast.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Bernardo_Strozzi_-_Parable_of_the_Wedding_Feast.jpg",
+    "artist": "Bernardo Strozzi",
+    "credit": "http://www.giamblanco.com/dettaglio_scroll.asp?id=121734&amp;lingua=ita&amp;index=25",
+    "license": "Public domain",
+    "licenseUrl": ""
+  },
+  "meta": {
+    "model": "claude-sonnet-5",
+    "geradoEm": "2026-10-31T09:30:14.243Z",
+    "caracteres": 1644
+  }
+}
