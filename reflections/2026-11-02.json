@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-02",
+  "liturgia": "Comemoração de Todos os Fiéis Defuntos",
+  "cor": "Roxo",
+  "evangelho": {
+    "referencia": "Lc 12,35-40",
+    "titulo": "Proclamação do evangelho de Jesus Cristo segundo Mateus",
+    "texto": "Naquele tempo, disse Jesus a seus discípulos: Que vossos rins estejam cingidos e as lâmpadas acesas. Sede como homens que estão esperando seu senhor voltar de uma festa de casamento, para lhe abrir, imediatamente, a porta, logo que ele chegar e bater. Felizes os empregados que o senhor encontrar acordados quando chegar. Em verdade eu vos digo: Ele mesmo vai cingir-se, fazê-los sentar-se à mesa e, passando, os servirá. E caso ele chegue à meia-noite ou às três da madrugada, felizes serão, se assim os encontrar! Mas ficai certos: se o dono da casa soubesse a hora em que o ladrão iria chegar, não deixaria que arrombasse a sua casa. Vós também, ficai preparados! Porque o Filho do Homem vai chegar na hora em que menos o esperardes."
+  },
+  "primeiraLeitura": {
+    "referencia": "Jó 19, 1. 23-27a",
+    "texto": "Jó tomou a palavra e disse:23“Gostaria que minhas palavras fossem escritas e gravadas numa inscrição 24com ponteiro de ferro e com chumbo, cravadas na rocha para sempre! 25Eu sei que o meu redentor está vivo e que, por último, se levantará sobre o pó; 26e depois que tiverem destruído esta minha pele, na minha carne, verei a Deus. 27aEu mesmo o verei, meus olhos o contemplarão, e não os olhos de outros”"
+  },
+  "reflexao": {
+    "tituloBreve": "Lâmpadas acesas, amor atual",
+    "corpo": "A cena é noturna. Os servos esperam o senhor que volta de núpcias — não sabem se à meia-noite, se às três da madrugada. Jesus não pede que calculem a hora: pede que estejam cingidos e com as lâmpadas acesas. Rins cingidos é postura de trabalho pronto; lâmpada acesa é óleo que não se guarda para depois, mas se queima agora.\n\nAí está o corte do versículo: a vigilância cristã não é ansiedade pelo instante final, é fidelidade sustentada no instante presente. A lâmpada apaga-se não por falta de óleo guardado, mas por falta de óleo gasto hoje. Quantas vezes adiamos a conversão miúda — o perdão que falta dar, a oração encurtada, o trabalho feito pela metade — confiando em que 'ainda há tempo'? O ladrão, diz o Senhor, não avisa. E, neste dia em que a Igreja reza pelos que já partiram, o aviso soa mais grave: a hora chega sem pedir licença a ninguém.\n\nSão Josemaría, no espírito de Caminho, insiste em que a santidade não se decide nos grandes momentos excepcionais, mas na fidelidade minuto a minuto às coisas pequenas feitas por amor — porque é disso, e não de projetos futuros, que se tece a vida de um filho de Deus. A lâmpada que o Senhor pede acesa é exatamente essa: o detalhe de hoje, não o propósito de amanhã.\n\nE note-se a reviravolta do versículo 37: encontrados acordados, é o próprio senhor que se cinge e os serve à mesa. Não há aqui terror de escravo pego em falta, há a alegria de um filho que esperou de pé porque confiava no amor de quem voltava. A falha que este Evangelho acusa não é fraqueza — é sono, é adiamento, é lâmpada deixada apagar por descuido. E toda falha, reconhecida, já é meio caminho de volta, porque o Pai não busca servos perfeitos: busca filhos que recomecem a acender o óleo, hoje, nesta hora que ainda é nossa.",
+    "paraSilencio": "Se o Senhor batesse à porta agora, nesta hora exata, encontraria em mim lâmpada acesa ou óleo gasto há tempos?",
+    "proposito": "Escolher hoje uma única tarefa pequena e ordinária — doméstica, profissional ou de caridade — e realizá-la com atenção plena, oferecendo-a pelos fiéis defuntos.",
+    "ancora": "São Josemaría, em Caminho, ao falar da santificação da vida ordinária, ensina que a fidelidade se decide nas pequenas coisas feitas por amor, não nos grandes gestos reservados para um futuro incerto.",
+    "imageTheme": "Servos de lâmpadas acesas aguardando o senhor que volta à noite das núpcias"
+  },
+  "image": null,
+  "meta": {
+    "model": "claude-sonnet-5",
+    "geradoEm": "2026-11-02T10:53:13.853Z",
+    "caracteres": 1754
+  }
+}
