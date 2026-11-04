@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-04",
+  "liturgia": "São Carlos Borromeu, bispo, Memória",
+  "cor": "Branco",
+  "evangelho": {
+    "referencia": "Lc 14,25-33",
+    "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+    "texto": "Naquele tempo, 25grandes multidões acompanhavam Jesus. Voltando-se, ele lhes disse: 26“Se alguém vem a mim, mas não se desapega de seu pai e sua mãe, sua mulher e seus filhos, seus irmãos e suas irmãs e até da sua própria vida, não pode ser meu discípulo. 27Quem não carrega sua cruz e não caminha atrás de mim não pode ser meu discípulo. 28Com efeito, qual de vós, querendo construir uma torre, não senta primeiro e calcula os gastos, para ver se tem o suficiente para terminar? Caso contrário, 29ele vai lançar o alicerce e não será capaz de acabar. E todos os que virem isso começarão a caçoar, dizendo: 30‘Este homem começou a construir e não foi capaz de acabar!’ 31Ou ainda, qual o rei que, ao sair para guerrear com outro, não se senta primeiro e examina bem se, com dez mil homens, poderá enfrentar o outro que marcha contra ele com vinte mil? 32Se ele vê que não pode, enquanto o outro rei ainda está longe, envia mensageiros para negociar as condições de paz. 33Do mesmo modo, portanto, qualquer um de vós, se não renunciar a tudo o que tem, não pode ser meu discípulo!”"
+  },
+  "primeiraLeitura": {
+    "referencia": "Fl 2,12-18",
+    "texto": "12Meus queridos, como sempre fostes obedientes, não só em minha presença, mas ainda mais agora na minha ausência, trabalhai para a vossa salvação, com temor e tremor. 13Pois é Deus que realiza em vós tanto o querer como o fazer, conforme o seu desígnio benevolente. 14Fazei tudo sem reclamar ou murmurar, 15para que sejais livres de repreensão e ambiguidade, filhos de Deus sem defeito, no meio desta geração depravada e pervertida, na qual brilhais como os astros no universo. 16Conservai com firmeza a palavra da vida. Assim, no dia de Cristo, terei a glória de não ter corrido em vão nem trabalhado inutilmente. 17E ainda que eu seja oferecido em libação, no sacrifício que é o sagrado serviço de vossa fé, fico feliz e alegro-me com todos vós. 18Vós também, alegrai-vos pelo mesmo motivo e congratulai-vos comigo."
+  },
+  "reflexao": {
+    "tituloBreve": "Calcular antes de construir",
+    "corpo": "As multidões seguem Jesus como quem segue uma festa. E Ele se volta — gesto duro, quase incômodo — para esfriar o entusiasmo fácil com uma exigência que ninguém pediu: carregar a cruz, desapegar-se de tudo, contar o preço antes de pôr a primeira pedra.\n\nFixo-me no versículo 28: “qual de vós, querendo construir uma torre, não senta primeiro e calcula os gastos?”. Não é imagem de desânimo; é imagem de seriedade. Jesus não quer multidões entusiasmadas que abandonem a obra no segundo andar, à vista de todos, motivo de riso. Quer gente que tenha decidido com a vontade, não apenas vibrado com a emoção.\n\nEm Caminho, ao tratar da entrega inteira a Deus, São Josemaría insiste que a vida cristã não admite meias-medidas: ou se dá tudo, ou o que se dá não serve. É exatamente o que o Senhor expõe na parábola — o problema não é começar, é começar sem ter calculado que a obra exige o alicerce inteiro, todos os dias, não só no dia do fervor.\n\nA falha que este versículo acusa é conhecida de quem trabalha e tem casa para cuidar: começar propósitos — de oração, de ordem, de paciência em casa — com ímpeto de festa e deixá-los pela metade quando a rotina de novembro chega sem brilho nenhum. A torre fica ali, inacabada, à vista dos de casa, que percebem antes de nós.\n\nMas o alicerce não desmorona porque faltou talento: desmorona porque faltou cálculo humilde do custo. E calcular o custo, para um filho de Deus, não é desanimar — é reconhecer que sozinho não chega lá, e que o Pai não pede uma torre perfeita hoje, mas um recomeço sincero amanhã. Cada queda recalculada com humildade é pedra que ainda pode entrar no alicerce.",
+    "paraSilencio": "Que gasto real desta minha entrega eu ainda não tive coragem de calcular diante de Deus?",
+    "proposito": "Escolher hoje um único propósito pequeno e concreto — não vários — e cumpri-lo até o fim do dia, sem adiar nem embelezar.",
+    "ancora": "Caminho, ao falar da entrega total a Deus e da impossibilidade das meias-medidas na vida espiritual",
+    "imageTheme": "Jesus se volta para as multidões e fala sobre carregar a cruz e calcular o custo do discipulado"
+  },
+  "image": {
+    "query": "parable of the tower builder painting",
+    "title": "Alter Friedhof, Kirche, Alterbild, 2026 Maglód.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Alter_Friedhof%2C_Kirche%2C_Alterbild%2C_2026_Magl%C3%B3d.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "fullSrc": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Alter_Friedhof%2C_Kirche%2C_Alterbild%2C_2026_Magl%C3%B3d.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Alter_Friedhof,_Kirche,_Alterbild,_2026_Magl%C3%B3d.jpg",
+    "artist": "Globetrotter19",
+    "credit": "Own work",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "meta": {
+    "model": "claude-sonnet-5",
+    "geradoEm": "2026-11-04T11:36:31.342Z",
+    "caracteres": 1626
+  }
+}
