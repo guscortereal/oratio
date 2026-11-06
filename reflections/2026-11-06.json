@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-06",
+  "liturgia": "6ª feira da 31ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "evangelho": {
+    "referencia": "Lc 16,1-8",
+    "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+    "texto": "Naquele tempo, 1Jesus disse aos discípulos: “Um homem rico tinha um administrador que foi acusado de esbanjar os seus bens. 2Ele o chamou e lhe disse: ‘Que é isto que ouço a teu respeito? Presta contas da tua administração, pois já não podes mais administrar meus bens’. 3O administrador então começou a refletir: ‘O senhor vai me tirar a administração. Que vou fazer? Para cavar, não tenho forças; de mendigar, tenho vergonha. 4Ah! Já sei o que fazer, para que alguém me receba em sua casa quando eu for afastado da administração’. 5Então ele chamou cada um dos que estavam devendo ao seu patrão. E perguntou ao primeiro: ‘Quanto deves ao meu patrão?’ 6Ele respondeu: ‘Cem barris de óleo!’ O administrador disse: ‘Pega a tua conta, senta-te depressa e escreve cinquenta!’ 7Depois ele perguntou a outro: ‘E tu, quanto deves?’ Ele respondeu: ‘Cem medidas de trigo’. O administrador disse: ‘Pega tua conta e escreve oitenta’. 8E o senhor elogiou o administrador desonesto, porque ele agiu com esperteza. Com efeito, os filhos deste mundo são mais espertos em seus negócios do que os filhos da luz”."
+  },
+  "primeiraLeitura": {
+    "referencia": "Fl 3,17-4,1",
+    "texto": "17Sede meus imitadores, irmãos, e observai os que vivem de acordo com o exemplo que nós damos. 18Já vos disse muitas vezes e agora o repito, chorando: há muitos por aí que se comportam como inimigos da cruz de Cristo. 19O fim deles é a perdição, o deus deles é o estômago, a glória deles está no que é vergonhoso e só pensam nas coisas terrenas. 20Nós, porém, somos cidadãos do céu. De lá aguardamos o nosso salvador, o Senhor, Jesus Cristo. 21Ele transformará o nosso corpo humilhado e o tornará semelhante ao seu corpo glorioso, com o poder que tem de sujeitar a si todas as coisas. 4,1Assim, meus irmãos, a quem quero bem e dos quais sinto saudade, minha alegria, minha coroa, meus amigos, continuai firmes no Senhor."
+  },
+  "reflexao": {
+    "tituloBreve": "A mesma astúcia, outro Senhor",
+    "corpo": "O administrador já sabe que vai perder o cargo. Não perde tempo lamentando: pensa, calcula, age. Em poucas horas resolve o que levaria meses de hesitação. É desonesto, sim — Jesus não elogia a fraude, elogia a energia posta a serviço de um objetivo.\n\nE então vem o golpe do versículo 8: “os filhos deste mundo são mais espertos em seus negócios do que os filhos da luz”. Aí está a ferida que o Evangelho de hoje abre sem anestesia. Não é que falte fé aos que creem; falta, muitas vezes, a mesma diligência que se tem para fechar um contrato, resolver um problema de trabalho ou garantir o futuro dos filhos. Sabemos ser rápidos, criativos, perseverantes quando o assunto é o pão de cada dia. E diante da oração, do exame, da luta concreta contra um defeito conhecido, de repente tudo vira adiamento, rotina sem alma, boa vontade que nunca vira plano.\n\nSão Josemaría, em Amigos de Deus, ao falar da laboriosidade, insiste em que o cristão deve pôr na vida interior a mesma seriedade — inteligência, ordem, tempo marcado — que põe nas coisas que considera sérias no trabalho; porque confundir piedade com improviso é não ter entendido que também a alma se administra.\n\nA falha que este texto acusa não é a preguiça em abstrato: é a desproporção. Mais engenho para o que passa do que para o que fica. Mas o Pai não te pede números perfeitos nem um plano genial — pede que não sejas administrador displicente do pouco que já tens: dez minutos de oração bem postos, um propósito que se cumpre hoje, não amanhã. Filho que é, não precisa impressionar ninguém; só precisa querer, e recomeçar quando falhar.",
+    "paraSilencio": "Em que área da minha vida interior sou menos diligente do que sou nos meus negócios?",
+    "proposito": "Hoje, marcar um horário fixo e concreto para a oração mental, como se fosse um compromisso inadiável de trabalho, e cumpri-lo sem adiar.",
+    "ancora": "São Josemaría, em Amigos de Deus, ao tratar da laboriosidade — sobre levar à vida interior a mesma seriedade e empenho que se dedica às tarefas temporais",
+    "imageTheme": "O administrador infiel negociando às pressas as dívidas dos devedores de seu senhor"
+  },
+  "image": {
+    "query": "Parable of the Unjust Steward painting",
+    "title": "Parable of the Unjust Steward Marinus van Reymerswaele.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Parable_of_the_Unjust_Steward_Marinus_van_Reymerswaele.jpg/1920px-Parable_of_the_Unjust_Steward_Marinus_van_Reymerswaele.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "fullSrc": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Parable_of_the_Unjust_Steward_Marinus_van_Reymerswaele.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Parable_of_the_Unjust_Steward_Marinus_van_Reymerswaele.jpg",
+    "artist": "Marinus van Reymerswaele",
+    "credit": "Diigitised umage, Kunsthistorisches Museum, Vienna",
+    "license": "Public domain",
+    "licenseUrl": ""
+  },
+  "meta": {
+    "model": "claude-sonnet-5",
+    "geradoEm": "2026-11-06T10:42:10.015Z",
+    "caracteres": 1598
+  }
+}
