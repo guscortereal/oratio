@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-08",
+  "liturgia": "32º Domingo do Tempo Comum",
+  "cor": "Verde",
+  "evangelho": {
+    "referencia": "Mt 25,1-13",
+    "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+    "texto": "Naquele tempo, disse Jesus a seus discípulos esta parábola: 1“O Reino dos céus é como a história das dez jovens que pegaram suas lâmpadas de óleo e saíram ao encontro do noivo. 2Cinco delas eram imprevidentes, e as outras cinco eram previdentes. 3As imprevidentes pegaram as suas lâmpadas, mas não levaram óleo consigo. 4As previdentes, porém, levaram vasilhas com óleo junto com as lâmpadas. 5O noivo estava demorando, e todas elas acabaram cochilando e dormindo. 6No meio da noite, ouviu-se um grito: ‘O noivo está chegando. Ide ao seu encontro!’ 7Então as dez jovens se levantaram e prepararam as lâmpadas. 8As imprevidentes disseram às previdentes: ‘Dai-nos um pouco de óleo, porque nossas lâmpadas estão se apagando’. 9As previdentes responderam: ‘De modo nenhum, porque o óleo pode ser insuficiente para nós e para vós. É melhor irdes comprar aos vendedores’. 10Enquanto elas foram comprar óleo, o noivo chegou, e as que estavam preparadas entraram com ele para a festa de casamento. E a porta se fechou. 11Por fim, chegaram também as outras jovens e disseram: ‘Senhor! Senhor! Abre-nos a porta!’ 12Ele, porém, respondeu: ‘Em verdade eu vos digo, não vos conheço!’ 13Portanto, ficai vigiando, pois não sabeis qual será o dia nem a hora”. -Palavra da salvação."
+  },
+  "primeiraLeitura": {
+    "referencia": "Sb 6,12-16",
+    "texto": "12A sabedoria é resplandecente e sempre viçosa. Ela é facilmente contemplada por aqueles que a amam, e é encontrada por aqueles que a procuram. 13Ela até se antecipa, dando-se a conhecer aos que a desejam. 14Quem por ela madruga não se cansará, pois a encontrará sentada à sua porta. 15Meditar sobre ela é a perfeição da prudência; e quem ficar acordado por causa dela em breve há de viver despreocupado. 16Pois ela mesma sai à procura dos que a merecem, cheia de bondade, aparece-lhes nas estradas e vai ao seu encontro em todos os seus projetos."
+  },
+  "reflexao": {
+    "tituloBreve": "O óleo que não se empresta",
+    "corpo": "É noite fechada. Dez jovens esperam o noivo, e o sono vence a todas igualmente — previdentes e imprevidentes adormecem juntas. O sono não é a falha. A diferença estava decidida antes, na vasilha que cada uma trouxe ou deixou de trazer.\n\nQuando o grito ecoa, as imprevidentes pedem: \"Dai-nos um pouco de óleo\". E ouvem a resposta que corta: \"De modo nenhum, porque o óleo pode ser insuficiente para nós e para vós\" (Mt 25,9). Não é dureza. É verdade. Há coisas que ninguém empresta a ninguém.\n\nA vida interior é uma dessas coisas. Pode-se emprestar um livro de oração, um conselho, até um bom exemplo — mas não se empresta a própria decisão de orar, a própria luta contra um defeito, a própria intimidade com Deus cultivada dia após dia na obscuridade. No espírito de Caminho, ao tratar da vida interior, São Josemaría insiste que a chama da alma se apaga sem o azeite dos pequenos atos de piedade sustentados com constância; ninguém pode acender a lâmpada alheia soprando a própria.\n\nA falha que este Evangelho acusa não é dramática: é viver de óleo emprestado sem perceber. Rezar porque o ambiente reza, comungar por costume, sustentar-se na fé dos pais, do cônjuge, da comunidade — sem nunca ter decidido, a sós, diante do Pai, abastecer a própria vasilha. E então chega a hora — a doença, a tentação forte, o luto, a provação longa — e descobre-se o vazio que o hábito disfarçava.\n\nMas a porta que se fecha não é a última palavra sobre um filho de Deus. É advertência, não sentença consumada enquanto há tempo de recomeçar. O Pai não pede óleo emprestado: pede que, hoje, cada filho volte a enchê-lo, gota a gota, na oração que ninguém vê.",
+    "paraSilencio": "De que falta de óleo próprio tenho vivido, cobrindo com a fé ou a piedade de outros o vazio da minha?",
+    "proposito": "Hoje, antes de dormir, reservar cinco minutos de oração mental silenciosa, decidida por amor e não repetida por hábito.",
+    "ancora": "São Josemaría, em Caminho, ao tratar da vida interior, adverte que a chama da alma se apaga sem o alimento constante dos pequenos atos de piedade — ninguém pode emprestar a outro a própria vida de oração.",
+    "imageTheme": "As dez jovens com suas lâmpadas esperando o noivo, cinco previdentes com óleo e cinco imprevidentes sem óleo"
+  },
+  "image": {
+    "query": "Parable of the ten virgins painting",
+    "title": "(Venice) The Parable of the Wise and Foolish Virgins by Alessandro Varotari - Gallerie Accademia.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/%28Venice%29_The_Parable_of_the_Wise_and_Foolish_Virgins_by_Alessandro_Varotari_-_Gallerie_Accademia.jpg/1920px-%28Venice%29_The_Parable_of_the_Wise_and_Foolish_Virgins_by_Alessandro_Varotari_-_Gallerie_Accademia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "fullSrc": "https://upload.wikimedia.org/wikipedia/commons/f/f8/%28Venice%29_The_Parable_of_the_Wise_and_Foolish_Virgins_by_Alessandro_Varotari_-_Gallerie_Accademia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:(Venice)_The_Parable_of_the_Wise_and_Foolish_Virgins_by_Alessandro_Varotari_-_Gallerie_Accademia.jpg",
+    "artist": "Didier Descouens",
+    "credit": "Own work",
+    "license": "Public domain",
+    "licenseUrl": ""
+  },
+  "meta": {
+    "model": "claude-sonnet-5",
+    "geradoEm": "2026-11-08T10:09:47.750Z",
+    "caracteres": 1642
+  }
+}
