@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-11",
+  "liturgia": "São Martinho de Tours, bispo, Memória",
+  "cor": "Branco",
+  "evangelho": {
+    "referencia": "Lc 17,11-19",
+    "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+    "texto": "11Aconteceu que, caminhando para Jerusalém, Jesus passava entre a Samaria e a Galileia. 12Quando estava para entrar num povoado, dez leprosos vieram ao seu encontro. Pararam a distância 13e gritaram: “Jesus, mestre, tem compaixão de nós!” 14Ao vê-los, Jesus disse: “Ide apresentar-vos aos sacerdotes”. Enquanto caminhavam, aconteceu que ficaram curados. 15Um deles, ao perceber que estava curado, voltou glorificando a Deus em alta voz; 16atirou-se aos pés de Jesus com o rosto por terra e lhe agradeceu. E este era um samaritano. 17Então Jesus lhe perguntou: “Não foram dez os curados? E os outros nove, onde estão? 18Não houve quem voltasse para dar glória a Deus, a não ser este estrangeiro?” 19E disse-lhe: “Levanta-te e vai! Tua fé te salvou”."
+  },
+  "primeiraLeitura": {
+    "referencia": "Tt 3,1-7",
+    "texto": "Caríssimo, 1admoesta a todos que vivam submissos aos príncipes e às autoridades, que lhes obedeçam e estejam prontos para qualquer boa obra. 2Não injuriem a ninguém, sejam pacíficos, afáveis e deem provas de mansidão para com todos os homens. 3Porque nós outrora éramos insensatos, rebeldes, extraviados, escravos de toda sorte de paixões e prazeres, vivendo na maldade e na inveja, dignos de ódio e odiando uns aos outros. 4Mas um dia manifestou-se a bondade de Deus, nosso salvador, e o seu amor pelos homens: 5ele salvou-nos não por causa dos atos de justiça que tivéssemos praticado, mas por sua misericórdia; quando renascemos e fomos renovados no batismo pelo Espírito Santo, 6que ele derramou abundantemente sobre nós por meio de nosso salvador, Jesus Cristo. 7Justificados, assim, pela sua graça, nos tornamos na esperança herdeiros da vida eterna. -Palavra do Senhor."
+  },
+  "reflexao": {
+    "tituloBreve": "Os outros nove, onde estão",
+    "corpo": "Dez vozes gritam a distância, numa estrada entre a Samaria e a Galileia: homens marcados pela lepra, excluídos de tudo, até da proximidade humana. Jesus não os toca, não os olha de perto: manda-os caminhar, como quem obedece antes de ver o milagre. E a cura acontece a caminho, quase sem que percebam o instante exato.\n\nMas o versículo que corta é outro: \"Não foram dez os curados? E os outros nove, onde estão?\" (Lc 17,17). Nove receberam o mesmo dom e seguiram adiante, para a vida que os esperava — a casa, o trabalho, a família recuperada. Não eram maus: eram apenas gente que, curada, voltou a viver, sem voltar à Fonte.\n\nAqui está a ideia que fere: é possível receber o milagre de cada dia — a saúde que volta, o problema que se desfaz, a solução que chega bem na hora — e seguir em frente sem jamais voltar para dizer obrigado. Tratar Deus como socorro de urgência, não como Pai a quem se deve a própria vida. É a oração que só sobe quando falta algo, e emudece quando tudo se resolve.\n\nSão Josemaría, em Amigos de Deus, ao falar da virtude da gratidão, insiste em que a alma que se sabe filha não pode viver de costas para quem lhe deu tudo: o agradecimento não é um detalhe de boa educação diante de Deus, é o próprio pulso da filiação divina. Quem é filho não calcula o que recebeu: reconhece, nomeia, volta.\n\nA falha que este versículo acusa não é a ingratidão espetacular, mas a mais comum: aceitar como óbvio o que foi dom — a saúde de hoje, o trabalho que rendeu, a paz que voltou à casa — e seguir vida adiante sem um só instante de volta. Não é pecado grave; é esquecimento de filho. E por isso mesmo tem remédio imediato: basta voltar, como o samaritano, e cair em si de que tudo — até o ar que se respira — vem de uma mão que é Pai.",
+    "paraSilencio": "Daquilo que o Senhor te deu hoje sem que pedisses, quanto voltaste de fato para agradecer?",
+    "proposito": "Antes de dormir, nomear três coisas concretas recebidas hoje e agradecer por cada uma, em voz baixa, diante do Sacrário ou no silêncio do quarto.",
+    "ancora": "Amigos de Deus, São Josemaría Escrivá — ao tratar da virtude da gratidão como sinal da filiação divina (escriva.org/pt-br)",
+    "imageTheme": "Jesus cura os dez leprosos a caminho de Jerusalém; o samaritano volta e se prostra a seus pés"
+  },
+  "image": {
+    "query": "Christ healing ten lepers painting",
+    "title": "Brooklyn Museum - The Healing of Ten Lepers (Guérison de dix lépreux) - James Tissot - overall.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Brooklyn_Museum_-_The_Healing_of_Ten_Lepers_%28Gu%C3%A9rison_de_dix_l%C3%A9preux%29_-_James_Tissot_-_overall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "fullSrc": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Brooklyn_Museum_-_The_Healing_of_Ten_Lepers_%28Gu%C3%A9rison_de_dix_l%C3%A9preux%29_-_James_Tissot_-_overall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_-_The_Healing_of_Ten_Lepers_(Gu%C3%A9rison_de_dix_l%C3%A9preux)_-_James_Tissot_-_overall.jpg",
+    "artist": "James Tissot",
+    "credit": "Online Collection of Brooklyn Museum; Photo: Brooklyn Museum, 2008, 00.159.161_PS2.jpg",
+    "license": "Public domain",
+    "licenseUrl": ""
+  },
+  "meta": {
+    "model": "claude-sonnet-5",
+    "geradoEm": "2026-11-11T10:42:23.756Z",
+    "caracteres": 1750
+  }
+}
