@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-14",
+  "liturgia": "Sábado da 32ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "evangelho": {
+    "referencia": "Lc 18,1-8",
+    "titulo": "Proclamação do evangelho de Jesus Cristo segundo Lucas",
+    "texto": "Naquele tempo, 1Jesus contou aos discípulos uma parábola, para mostrar-lhes a necessidade de rezar sempre e nunca desistir, dizendo: 2“Numa cidade havia um juiz que não temia a Deus e não respeitava homem algum. 3Na mesma cidade havia uma viúva, que vinha à procura do juiz, pedindo: ‘Faze-me justiça contra o meu adversário!’ 4Durante muito tempo, o juiz se recusou. Por fim, ele pensou: ‘Eu não temo a Deus e não respeito homem algum. 5Mas essa viúva já me está aborrecendo. Vou fazer-lhe justiça, para que ela não venha agredir-me!'” 6E o Senhor acrescentou: “Escutai o que diz esse juiz injusto. 7E Deus não fará justiça aos seus escolhidos, que dia e noite gritam por ele? Será que vai fazê-los esperar? 8Eu vos digo que Deus lhes fará justiça bem depressa. Mas o Filho do homem, quando vier, será que ainda vai encontrar fé sobre a terra?”"
+  },
+  "primeiraLeitura": {
+    "referencia": "3Jo 5-8",
+    "texto": "5Caríssimo Gaio, é muito leal o teu proceder, agindo assim com teus irmãos, ainda que estrangeiros. 6Eles deram testemunho da tua caridade diante da Igreja. Farás bem em provê-los para a viagem de um modo digno de Deus. 7Pois, por amor do Nome, eles empreenderam a viagem sem aceitar nada da parte dos pagãos. 8A nós, portanto, cabe acolhê-los, para sermos cooperadores da verdade."
+  },
+  "reflexao": {
+    "tituloBreve": "A fé que não desiste",
+    "corpo": "A viúva da parábola não tem advogado, nem dinheiro, nem parentesco que a proteja. Tem apenas uma insistência que cansa o juiz mais duro. Jesus não a louva pela eloquência, mas pela perseverança teimosa diante de um poder que lhe é hostil. E então vira a cena: se até um juiz sem Deus e sem piedade cede ao pedido repetido, quanto mais o Pai, que já é por natureza justiça e amor, atenderá os que clamam dia e noite.\n\nO versículo que corta não é o da promessa de resposta rápida, mas a pergunta final: \"será que ainda vai encontrar fé sobre a terra?\" (Lc 18,8). Jesus não duvida do seu próprio poder de responder; duvida da nossa capacidade de continuar pedindo. O problema nunca foi a demora de Deus — foi sempre a fadiga da nossa fé.\n\nHá uma falha concreta que este texto expõe sem rodeios: aquele pedido que você fazia há meses, ou anos — a conversão de alguém, uma cura, uma graça para o trabalho ou para o matrimônio — e que, silenciosamente, deixou de fazer. Não porque Deus disse não, mas porque você concluiu, sem Ele ter dito nada, que já não valia a pena insistir. É a fé que esmoreceu antes que a resposta chegasse.\n\nSão Josemaría, em Amigos de Deus, ao falar da oração de petição, insiste em que a perseverança não é teimosia que vence a Deus, mas filiação que confia: o filho que bate à porta do Pai sabe que será ouvido, ainda que a hora não seja a sua. Deus não é o juiz relutante da parábola; é Pai que espera justamente a insistência como sinal de que ainda cremos nEle como Pai.\n\nVoltar a pedir aquilo que você desistiu de pedir não é teimosia: é recomeçar a ser filho.",
+    "paraSilencio": "Qual pedido antigo você deixou de levar a Deus, concluindo sozinho que já não tinha resposta?",
+    "proposito": "Hoje, ao rezar, nomear diante de Deus — em voz alta ou por escrito — aquele pedido abandonado, e retomá-lo com a confiança de um filho.",
+    "ancora": "São Josemaría, em Amigos de Deus, ao tratar da oração de petição e da perseverança filial diante de Deus Pai",
+    "imageTheme": "a viúva insistindo diante do juiz injusto"
+  },
+  "image": {
+    "query": "parable of the unjust judge and the widow painting",
+    "title": "Gothaer-Tafelaltar-Tafel-107-Ebhardt-FSG.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Gothaer-Tafelaltar-Tafel-107-Ebhardt-FSG.jpg/1920px-Gothaer-Tafelaltar-Tafel-107-Ebhardt-FSG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "fullSrc": "https://upload.wikimedia.org/wikipedia/commons/4/42/Gothaer-Tafelaltar-Tafel-107-Ebhardt-FSG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Gothaer-Tafelaltar-Tafel-107-Ebhardt-FSG.jpg",
+    "artist": "artist: Heinrich Füllmaurer, photographer: Lutz Ebhardt",
+    "credit": "Trümper, T. &amp; Jansssen, R., 2017. Der Gothaer Tafelaltar: Ein Monumentales Bilderbuch der Reformationszeit, Michael Imhof Verlag, ISBN 3731905957.",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "meta": {
+    "model": "claude-sonnet-5",
+    "geradoEm": "2026-11-14T10:06:24.751Z",
+    "caracteres": 1586
+  }
+}
