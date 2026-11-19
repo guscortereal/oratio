@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-19",
+  "liturgia": "Santos Roque González, Afonso Rodríguez e João de Castillo, presbíteros e mártires, Memória",
+  "cor": "Vermelho",
+  "evangelho": {
+    "referencia": "Lc 19,41-44",
+    "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+    "texto": "Naquele tempo, 41quando Jesus se aproximou de Jerusalém e viu a cidade, começou a chorar. E disse: 42“Se tu também compreendesses hoje o que te pode trazer a paz! Agora, porém, isso está escondido aos teus olhos! 43Dias virão em que os inimigos farão trincheiras contra ti e te cercarão de todos os lados. 44Eles esmagarão a ti e a teus filhos. E não deixarão em ti pedra sobre pedra. Porque tu não reconheceste o tempo em que foste visitada”."
+  },
+  "primeiraLeitura": {
+    "referencia": "Ap 5,1-10",
+    "texto": "Eu, João, 1vi um livro na mão direita daquele que estava sentado no trono. Era um rolo escrito por dentro e por fora, e estava lacrado com sete selos. 2Vi então um anjo forte, que proclamava em voz alta: “Quem é digno de romper os selos e abrir o livro?” 3Ninguém no céu, nem na terra, nem debaixo da terra era digno de abrir o livro ou de ler o que nele estava escrito. 4Eu chorava muito, porque ninguém foi considerado digno de abrir ou de ler o livro. 5Um dos anciãos me consolou: “Não chores! Eis que o Leão da tribo de Judá, o Rebento de Davi, saiu vencedor. Ele pode romper os selos e abrir o livro”. 6De fato, vi um Cordeiro. Estava no centro do trono e dos quatro seres vivos, no meio dos anciãos. Estava de pé, como que imolado. O Cordeiro tinha sete chifres e sete olhos, que são os sete Espíritos de Deus, enviados por toda a terra. 7Então, o Cordeiro veio receber o livro da mão direita daquele que está sentado no trono. 8Quando ele recebeu o livro, os quatro seres vivos e os vinte e quatro anciãos prostraram-se diante do Cordeiro. Todos tinham harpas e taças de ouro cheias de incenso, que são as orações dos santos. 9E entoaram um cântico novo: “Tu és digno de receber o livro e abrir seus selos, porque foste imolado e, com teu sangue, adquiriste para Deus homens de toda tribo, língua, povo e nação. 10Deles fizeste para o nosso Deus um reino de sacerdotes. E eles reinarão sobre a terra”."
+  },
+  "reflexao": {
+    "tituloBreve": "O tempo da visita",
+    "corpo": "Jesus desce o Monte das Oliveiras e vê Jerusalém estendida ao sol — bela, movimentada, cheia da vida de sempre: mercados, crianças, templo fumegando incenso. E chora. Não por um pecado visível, mas por algo mais sutil e mais grave: \"não reconheceste o tempo em que foste visitada\" (v.44). A cidade não rejeitou a Deus com um gesto dramático; simplesmente não O viu passar pertinho, no meio do dia comum.\n\nEsta é a ferida que o versículo abre: pode-se estar ocupadíssimo com coisas boas — trabalho, família, até deveres religiosos cumpridos por hábito — e, exatamente nesse ritmo apressado, deixar de perceber que é ali, naquele instante concreto, que Deus visita. Não falta fé declarada; falta atenção vivida. A alma corre de uma urgência a outra e a graça bate à porta de uma casa vazia por dentro.\n\nSão Josemaría insistia, no espírito de Caminho, que é preciso adquirir olhos novos para descobrir a Deus nas coisas pequenas e correntes da jornada, porque Ele não costuma anunciar-se com trombetas: visita disfarçado de rotina. A tragédia não é cair — é deixar que o \"hoje\" de Jesus (v.42) se esvazie de presença porque a cabeça já está no próximo compromisso.\n\nPergunte-se com honestidade: quantas vezes, nesta mesma semana, rezou sem rezar, trabalhou sem oferecer, conviveu sem olhar nos olhos de quem tinha diante de si? Essa é a trincheira silenciosa de que fala o versículo 43 — não erguida por inimigos de fora, mas pela própria dispersão.\n\nE, no entanto, o choro de Cristo não é condenação: é amor que ainda insiste. Enquanto há um \"hoje\", há visita possível. Filho de Deus não é quem nunca perde a hora, mas quem, reconhecendo-a perdida, volta a abrir a porta.",
+    "paraSilencio": "Que visita de Deus, hoje, você deixou passar sem ver?",
+    "proposito": "Antes de iniciar a próxima tarefa do dia, parar trinta segundos e perguntar: \"Senhor, é isto que me visitas agora?\"",
+    "ancora": "São Josemaría, no espírito de Caminho, ao falar da necessidade de olhos novos para descobrir a Deus nas coisas pequenas e correntes da vida ordinária",
+    "imageTheme": "Jesus chorando sobre Jerusalém, vista do Monte das Oliveiras"
+  },
+  "image": {
+    "query": "Christ weeping over Jerusalem painting",
+    "title": "Ary Scheffer (1795-1858) - Christ Weeping over Jerusalem - 142-1878 - Victoria and Albert Museum.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/51/Ary_Scheffer_%281795-1858%29_-_Christ_Weeping_over_Jerusalem_-_142-1878_-_Victoria_and_Albert_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "fullSrc": "https://upload.wikimedia.org/wikipedia/commons/5/51/Ary_Scheffer_%281795-1858%29_-_Christ_Weeping_over_Jerusalem_-_142-1878_-_Victoria_and_Albert_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Ary_Scheffer_(1795-1858)_-_Christ_Weeping_over_Jerusalem_-_142-1878_-_Victoria_and_Albert_Museum.jpg",
+    "artist": "Ary Scheffer",
+    "credit": "Art UK",
+    "license": "Public domain",
+    "licenseUrl": ""
+  },
+  "meta": {
+    "model": "claude-sonnet-5",
+    "geradoEm": "2026-11-19T11:28:00.765Z",
+    "caracteres": 1669
+  }
+}
