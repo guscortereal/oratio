@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-20",
+  "liturgia": "6ª feira da 33ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "evangelho": {
+    "referencia": "Lc 19,45-48",
+    "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+    "texto": "Naquele tempo, 45Jesus entrou no templo e começou a expulsar os vendedores. 46E disse: “Está escrito: ‘Minha casa será casa de oração’. No entanto, vós fizestes dela um antro de ladrões”. 47Jesus ensinava todos os dias no templo. Os sumos sacerdotes, os mestres da Lei e os notáveis do povo procuravam modo de matá-lo. 48Mas não sabiam o que fazer, porque o povo todo ficava fascinado quando ouvia Jesus falar."
+  },
+  "primeiraLeitura": {
+    "referencia": "Ap 10,8-11",
+    "texto": "8Aquela mesma voz do céu que eu, João, já tinha ouvido tornou a falar comigo: “Vai, pega o livrinho aberto da mão do anjo que está de pé sobre o mar e a terra”. 9Eu fui até o anjo e pedi que me entregasse o livrinho. Ele me falou: “Pega e come. Será amargo no estômago, mas na tua boca será doce como mel”. 10Peguei da mão do anjo o livrinho e comi-o. Na boca era doce como mel, mas, quando o engoli, meu estômago tornou-se amargo. 11Então ele me disse: “Deves profetizar ainda contra outros povos e nações, línguas e reis”."
+  },
+  "reflexao": {
+    "tituloBreve": "Casa de oração, não mercado",
+    "corpo": "Jesus entra no templo e não suporta o que vê: o lugar reservado ao encontro com o Pai virou balcão de trocas, onde tudo se pesa, se calcula, se cobra. Não é apenas zelo ritual — é dor de Filho diante da casa do Pai profanada pelo cálculo. \"Minha casa será casa de oração. No entanto, vós fizestes dela um antro de ladrões\" (Lc 19,46).\n\nEsse templo, antes de qualquer outro, é a tua alma. E a pergunta que o Evangelho de hoje crava não é sobre mercadores de dois mil anos atrás, mas sobre o que você instala, sem perceber, no espaço que deveria ser só trato filial com Deus.\n\nHá um comércio sutil que se infiltra na oração: rezar fazendo contas. Pedir calculando o retorno, medir o fervor pelo consolo sentido, negociar promessas — se Deus conceder isto, farei aquilo. É oração mercenária, não filial: o coração transformado em caixa registradora, onde se entra para ver o que se leva, não para simplesmente estar.\n\nSão Josemaría, em Amigos de Deus, ao tratar da oração, insiste que o trato com Deus não pode ser reduzido a um comércio de súplicas e concessões: é entrega de filhos, não negociação de clientes. Quem reza assim já entendeu que não há preço a pagar, porque tudo foi dado de graça antes mesmo de se pedir.\n\nA falha que este versículo expõe não é a de profanar um edifício — é a de entrar na própria oração como quem vai fechar um negócio, carregado de planilhas espirituais, quando o Pai só quer que o filho se sente e fique. Jesus expulsa os vendedores para que a casa volte a ser, simplesmente, casa.\n\nE por isso Ele continua ensinando todos os dias, apesar de quererem silenciá-lo: o povo ficava fascinado, porque reconhecia, naquela voz, alguém que não vendia nada — só dava.",
+    "paraSilencio": "O que você anda negociando com Deus, em vez de simplesmente entregar-se a Ele?",
+    "proposito": "Antes de começar a oração de hoje, dizer ao Senhor, sem pedir nada ainda: \"Sou teu filho, não vim negociar.\"",
+    "ancora": "São Josemaría, em Amigos de Deus, ao falar da oração: o trato com Deus não é comércio de súplicas e concessões, é entrega filial.",
+    "imageTheme": "Jesus expulsando os vendedores do templo"
+  },
+  "image": {
+    "query": "Christ driving money changers from temple painting",
+    "title": "Rembrandt Christ Driving the Money Changers from the Temple.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Rembrandt_Christ_Driving_the_Money_Changers_from_the_Temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "fullSrc": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Rembrandt_Christ_Driving_the_Money_Changers_from_the_Temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Rembrandt_Christ_Driving_the_Money_Changers_from_the_Temple.jpg",
+    "artist": "Rembrandt",
+    "credit": "http://www.nonprints.com/UploadPic/Rembrandt/big/Christ%20Driving%20The%20Money%20Changers%20From%20The%20Temple.jpg",
+    "license": "Public domain",
+    "licenseUrl": ""
+  },
+  "meta": {
+    "model": "claude-sonnet-5",
+    "geradoEm": "2026-11-20T11:21:02.367Z",
+    "caracteres": 1692
+  }
+}
