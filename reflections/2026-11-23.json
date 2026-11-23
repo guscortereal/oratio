@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-23",
+  "liturgia": "2ª feira da 34ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "evangelho": {
+    "referencia": "Lc 21,1-4",
+    "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Lucas",
+    "texto": "Naquele tempo, 1Jesus ergueu os olhos e viu pessoas ricas depositando ofertas no tesouro do Templo. 2Viu também uma pobre viúva que depositou duas pequenas moedas. 3Diante disto, ele disse: “Em verdade vos digo que essa pobre viúva ofertou mais do que todos. 4Pois todos eles depositaram, como oferta feita a Deus, aquilo que lhes sobrava. Mas a viúva, na sua pobreza, ofertou tudo quanto tinha para viver”."
+  },
+  "primeiraLeitura": {
+    "referencia": "Ap 14, 1-3. 4b-5",
+    "texto": "Eu, João, 1tive esta visão: O Cordeiro estava de pé sobre o monte Sião. Com ele, os cento e quarenta e quatro mil que tinham a fronte marcada com o nome dele e o nome do seu Pai. 2Ouvi uma voz que vinha do céu; parecia o barulho de águas torrenciais e o estrondo de um forte trovão. O ruído que ouvi era como o som de músicos tocando harpa. 3Estavam diante do trono, diante dos quatro Seres vivos e dos Anciãos, e cantavam um cântico novo. Era um cântico que ninguém podia aprender; só os cento e quarenta e quatro mil marcados, que foram resgatados da terra. 4bEles seguem o Cordeiro aonde quer que vá. Foram resgatados do meio dos homens, como primeira oferta a Deus e ao Cordeiro. 5Na sua boca nunca foi encontrada mentira. São íntegros!"
+  },
+  "reflexao": {
+    "tituloBreve": "O que resta depois de dar",
+    "corpo": "Jesus está sentado diante do tesouro do Templo, observando. Não julga pela quantia que cai nas caixas, mas por aquilo que cada mão deixa de reter. Passam ricos depositando somas generosas — e ninguém repara nelas mais do que o costume exige. Depois vem uma viúva, quase invisível, e deposita duas moedas de pouquíssimo valor. O olhar de Cristo se detém ali, e ele diz algo que desarma qualquer contabilidade humana: ela ofertou mais do que todos.\n\nO versículo 4 crava a razão: os outros deram do que lhes sobrava; ela deu tudo quanto tinha para viver. A medida da oferta, para Deus, nunca é o montante — é o que resta a quem oferece. Pode-se dar muito e, ainda assim, dar pouco, se o que se entrega é apenas excedente. E pode-se dar o mínimo visível e entregar tudo, se nada fica guardado por trás.\n\nSão Josemaría, falando da vida de oração e de entrega no espírito de Caminho, insiste em que Deus não quer as nossas sobras: quer o coração inteiro, sem reservas escondidas para depois. É fácil oferecer a Deus o tempo que ainda resta depois do trabalho, a atenção que sobra depois do cansaço, a paciência que ainda não se gastou com os outros. Chama-se isso generosidade, mas muitas vezes é apenas organização das prioridades — e Deus fica em último lugar, recebendo o troco do dia.\n\nA viúva não calculou o que podia prescindir; deu a vida mesma, pobre e pequena como era. Nisso ela não se diminuiu — se entregou. E quem se entrega inteiro, mesmo pouco, nunca fica mais pobre diante do Pai: fica filho. Porque a filiação divina não se mede pelo que se possui, mas pela confiança com que se entrega o que não sobra. Se hoje a oferta foi feita de sobras, não há vergonha nisso que não se cure recomeçando — Deus não pede perfeição retroativa, pede o coração de agora.",
+    "paraSilencio": "O que, na minha vida de oração e de entrega a Deus, ainda é apenas aquilo que me sobra?",
+    "proposito": "Hoje, escolher um momento de oração ou de atenção a alguém e oferecê-lo primeiro, antes do cansaço decidir por mim.",
+    "ancora": "São Josemaría, em Caminho, ao tratar da generosidade e da entrega sem reservas a Deus",
+    "imageTheme": "Jesus observando a viúva depositar duas moedas no tesouro do templo"
+  },
+  "image": {
+    "query": "widow's mite painting",
+    "title": "John Everett Millais (1829-1896) - A Widow's Mite - 1891P26 - Birmingham Museums Trust.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/87/John_Everett_Millais_%281829-1896%29_-_A_Widow%27s_Mite_-_1891P26_-_Birmingham_Museums_Trust.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "fullSrc": "https://upload.wikimedia.org/wikipedia/commons/8/87/John_Everett_Millais_%281829-1896%29_-_A_Widow%27s_Mite_-_1891P26_-_Birmingham_Museums_Trust.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:John_Everett_Millais_(1829-1896)_-_A_Widow%27s_Mite_-_1891P26_-_Birmingham_Museums_Trust.jpg",
+    "artist": "John Everett Millais",
+    "credit": "Art UK",
+    "license": "Public domain",
+    "licenseUrl": ""
+  },
+  "meta": {
+    "model": "claude-sonnet-5",
+    "geradoEm": "2026-11-23T12:13:53.477Z",
+    "caracteres": 1765
+  }
+}
