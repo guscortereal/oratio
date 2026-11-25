@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-25",
+  "liturgia": "4ª feira da 34ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "evangelho": {
+    "referencia": "Lc 21,12-19",
+    "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+    "texto": "Naquele tempo, disse Jesus aos seus discípulos: 12“Antes que essas coisas aconteçam, sereis presos e perseguidos; sereis entregues às sinagogas e postos na prisão; sereis levados diante de reis e governadores por causa do meu nome. 13Essa será a ocasião em que testemunhareis a vossa fé. 14Fazei o firme propósito de não planejar com antecedência a própria defesa; 15porque eu vos darei palavras tão acertadas, que nenhum dos inimigos vos poderá resistir ou rebater. 16Sereis entregues até mesmo pelos próprios pais, irmãos, parentes e amigos. E eles matarão alguns de vós. 17Todos vos odiarão por causa do meu nome. 18Mas vós não perdereis um só fio de cabelo da vossa cabeça. 19É permanecendo firmes que ireis ganhar a vida!”"
+  },
+  "primeiraLeitura": {
+    "referencia": "Ap 15,1-4",
+    "texto": "Eu, João, 1vi no céu outro sinal, grande e admirável: sete anjos, com as sete últimas pragas. Com elas o furor de Deus ia-se consumar. 2Vi também como que um mar de vidro misturado com fogo. Sobre esse mar estavam, de pé, todos aqueles que saíram vitoriosos do confronto com a besta, com a imagem dela e com o número do nome da besta. Seguravam as harpas de Deus. 3Entoavam o cântico de Moisés, o servo de Deus, e o cântico do Cordeiro, dizendo: “Grandes e admiráveis são as tuas obras, Senhor Deus, todo-poderoso! Justos e verdadeiros são os teus caminhos, ó rei das nações! 4Quem não temeria, Senhor, e não glorificaria o teu nome? Só tu és santo! Todas as nações virão prostrar-se diante de ti, porque tuas justas decisões se tornaram manifestas”."
+  },
+  "reflexao": {
+    "tituloBreve": "Sem defesa própria, firmes em Deus",
+    "corpo": "A cena é dura: Jesus anuncia aos seus que serão entregues, odiados, até por quem mais os ama. Não é um aviso distante — é o mapa de toda vida que leva a sério o nome de Cristo, também no escritório, na mesa de família, na reunião onde uma opinião custa simpatia.\n\nO versículo que corta é o 14: \"Fazei o firme propósito de não planejar com antecedência a própria defesa\". Não se trata de negligência, mas de uma ordem precisa: deixar de blindar-se. Há uma ansiedade muito comum — ensaiar respostas, armar argumentos para não sair mal na foto diante dos outros, proteger a própria imagem antes mesmo de ser atacado. Essa vigilância sobre si mesmo, levada ao extremo, rouba a liberdade de quem já tem Pai.\n\nSão Josemaría, falando da fortaleza em Amigos de Deus, insiste em que esta virtude não é dureza nem autossuficiência, mas a firmeza de quem, apoiado na graça, não precisa se armar de razões próprias porque sabe a quem pertence. A alma que se entrega não deixa de pensar — deixa de temer.\n\nA falha que o texto expõe é sutil: tantas vezes a fé se mede mais pela eficácia da resposta que se dá a quem critica do que pela paz de quem confia. Jesus promete palavras que os inimigos não poderão resistir — mas essas palavras vêm no momento, não no ensaio ansioso da véspera.\n\nE o fundamento de tudo é a filiação: \"não perdereis um só fio de cabelo\". Um Pai que conta os cabelos da cabeça não abandona quem é seu no instante do testemunho. Permanecer firme, afinal, não é resistir sozinho — é deixar-se sustentar.",
+    "paraSilencio": "Em que situação concreta desta semana você preferiu ensaiar sua defesa a confiar que o Pai lhe daria a palavra certa?",
+    "proposito": "Hoje, diante da primeira crítica ou mal-entendido, fazer uma pausa breve e entregar a resposta a Deus antes de reagir.",
+    "ancora": "São Josemaría, em Amigos de Deus, ao tratar da virtude da fortaleza, ensina que ela não nasce da autossuficiência, mas do apoio na graça que liberta do medo.",
+    "imageTheme": "Jesus anuncia aos discípulos a perseguição futura e a promessa de permanecerem firmes"
+  },
+  "image": null,
+  "meta": {
+    "model": "claude-sonnet-5",
+    "geradoEm": "2026-11-25T12:35:44.918Z",
+    "caracteres": 1510
+  }
+}
