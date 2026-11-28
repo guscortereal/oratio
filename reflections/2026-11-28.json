@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-28",
+  "liturgia": "Sábado da 34ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "evangelho": {
+    "referencia": "Lc 21,34-36",
+    "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+    "texto": "Naquele tempo, disse Jesus aos seus discípulos: 34“Tomai cuidado para que vossos corações não fiquem insensíveis por causa da gula, da embriaguez e das preocupações da vida e esse dia não caia de repente sobre vós; 35pois esse dia cairá como uma armadilha sobre todos os habitantes de toda a terra. 36Portanto, ficai atentos e orai a todo momento, a fim de terdes força para escapar de tudo o que deve acontecer e para ficardes em pé diante do Filho do Homem”."
+  },
+  "primeiraLeitura": {
+    "referencia": "Ap 22,1-7",
+    "texto": "A mim, João, 1o anjo do Senhor mostrou-me um rio de água viva, o qual brilhava como cristal. O rio brotava do trono de Deus e do Cordeiro. 2No meio da praça, de cada lado do rio, estão plantadas árvores da vida; elas dão frutos doze vezes por ano; em cada mês elas dão fruto; suas folhas servem para curar as nações. 3Já não haverá maldição alguma. Na cidade estará o trono de Deus e do Cordeiro, e seus servos poderão prestar-lhe culto. 4Verão a sua face, e o seu nome estará sobre suas frontes. 5Não haverá mais noite: não se precisará mais da luz da lâmpada nem da luz do sol, porque o Senhor Deus vai brilhar sobre eles e eles reinarão para toda a eternidade. 6Então, o anjo disse-me: “Estas palavras são dignas de fé e verdadeiras, pois o Senhor, o Deus que inspira os profetas, enviou o seu anjo, para mostrar aos seus servos o que deve acontecer muito em breve. 7Eis que eu venho em breve. Feliz aquele que observa as palavras da profecia deste livro”."
+  },
+  "reflexao": {
+    "tituloBreve": "O coração entorpecido",
+    "corpo": "Jesus fala aos discípulos pouco antes da sua Paixão, e não descreve primeiro um pecado estrondoso, mas um lento entorpecimento: \"vossos corações não fiquem insensíveis por causa da gula, da embriaguez e das preocupações da vida\" (Lc 21,34). Repare: ao lado dos excessos está algo que soa quase inocente — as preocupações da vida. É este o ponto que corta.\n\nNão é preciso cair em grande pecado para que o coração perca a vigília. Basta o acúmulo surdo de afazeres legítimos — contas, prazos, agendas, cansaços domésticos — vividos sem referência a Deus, dia após dia, até que a alma se torna pesada, sonolenta, incapaz de perceber que Ele passa. O Senhor não condena o trabalho nem os cuidados da casa; condena o coração que se deixa absorver por eles a ponto de esquecer Quem os sustenta.\n\nSão Josemaría, em Caminho, ao tratar da luta nas pequenas coisas, insiste que não há coisas pequenas se forem feitas por amor — e, inversamente, adverte que é exatamente nas coisas pequenas, repetidas sem alma, que a vida interior costuma adormecer sem que a pessoa perceba a queda.\n\nA falha real que este versículo acusa não é a preguiça grosseira, mas a distração honesta: aquele que reza quando sobra tempo, e por isso nunca reza, porque tempo nunca sobra. O coração vai se afastando sem escândalo, sem drama, apenas ocupado.\n\nMas o Senhor não fecha a porta: pede vigilância, não perfeição; pede que oremos \"a todo momento\" (Lc 21,36), isto é, que façamos do próprio trabalho e das próprias preocupações matéria de oração, e não obstáculo a ela. Filhos de Deus não precisam fugir da vida ordinária para encontrá-lO; precisam apenas não adormecer dentro dela.",
+    "paraSilencio": "Que preocupação concreta, nesta semana, ocupou em meu coração o lugar que pertence a Deus?",
+    "proposito": "Hoje, antes de começar a primeira tarefa pendente, parar trinta segundos e oferecê-la conscientemente a Deus.",
+    "ancora": "São Josemaría, em Caminho, ao falar da santificação das pequenas coisas e da necessidade de não ceder à rotina sem alma",
+    "imageTheme": "Jesus adverte os discípulos sobre a vigilância antes da sua vinda"
+  },
+  "image": null,
+  "meta": {
+    "model": "claude-sonnet-5",
+    "geradoEm": "2026-11-28T11:37:04.318Z",
+    "caracteres": 1651
+  }
+}
